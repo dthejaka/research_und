@@ -1,0 +1,1990 @@
+"","FROM","TO","prob"
+"1","Abayagiriya","Basawakkulama Wewa",0.03125
+"2","Abayagiriya","Dabulla Cave Temple",0.03125
+"3","Abayagiriya","Isurumuni Viharaya",0.03125
+"4","Abayagiriya","Jethawanaramaya",0.0625
+"5","Abayagiriya","Kuttam Pokuna",0.09375
+"6","Abayagiriya","Lankaramaya",0.03125
+"7","Abayagiriya","Mahasena's Palace, Rathna Prasad",0.375
+"8","Abayagiriya","Samadhi Buddha Statue",0.09375
+"9","Abayagiriya","Samadhi Statue - 3",0.09375
+"10","Abayagiriya","Sigirya",0.03125
+"11","Abayagiriya","Sri Maha Bodiya, Ruwanwelisaya",0.125
+"12","Adam's Peak","Christ Church Warleigh",0.0740740740740741
+"13","Adam's Peak","Devon Falls",0.0740740740740741
+"14","Adam's Peak","Ella Town",0.0740740740740741
+"15","Adam's Peak","Galle Fort",0.037037037037037
+"16","Adam's Peak","Hortan Plains NP",0.0740740740740741
+"17","Adam's Peak","Kandy Lake Club",0.037037037037037
+"18","Adam's Peak","Kithulgala White Water rafting",0.037037037037037
+"19","Adam's Peak","Lake Gregory",0.037037037037037
+"20","Adam's Peak","Lipton's Seat",0.0740740740740741
+"21","Adam's Peak","Little Adam's Peak Trailhead-Ella",0.037037037037037
+"22","Adam's Peak","Mirissa Beach",0.037037037037037
+"23","Adam's Peak","Negambo Beach Park",0.037037037037037
+"24","Adam's Peak","Royal Botanical Gardens",0.037037037037037
+"25","Adam's Peak","Sigirya",0.037037037037037
+"26","Adam's Peak","Small Ravana Waterfalls",0.037037037037037
+"27","Adam's Peak","Sri Maha Bodiya, Ruwanwelisaya",0.037037037037037
+"28","Adam's Peak","St. Clairs Falls",0.037037037037037
+"29","Adam's Peak","Temple of Tooth Relic",0.111111111111111
+"30","Adam's Peak","Victoria Park",0.037037037037037
+"31","Adam's Peak","Yala National Park",0.037037037037037
+"32","Ahungalla Beach","Galle Fort",0.5
+"33","Ahungalla Beach","Sigirya",0.25
+"34","Ahungalla Beach","Tsunami Honganji Viharaya",0.25
+"35","Archaelogical Museum","Jethawanaramaya",0.2
+"36","Archaelogical Museum","Mirisavatiya",0.2
+"37","Archaelogical Museum","Sri Maha Bodiya, Ruwanwelisaya",0.6
+"38","Arugam Bay Beach","Adam's Peak",0.125
+"39","Arugam Bay Beach","Ella Town",0.125
+"40","Arugam Bay Beach","Galle Fort",0.125
+"41","Arugam Bay Beach","Hikkaduwa Beach",0.125
+"42","Arugam Bay Beach","Labookellie Tea Factory",0.125
+"43","Arugam Bay Beach","Mirissa Beach",0.25
+"44","Arugam Bay Beach","Weligama Beach",0.125
+"45","Ashokaramaya Temple","Pettah Market",0.5
+"46","Ashokaramaya Temple","Townhall - Colombo",0.5
+"47","Aukana","Dabulla Cave Temple",0.0909090909090909
+"48","Aukana","Kaudulla NP",0.0909090909090909
+"49","Aukana","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint",0.181818181818182
+"50","Aukana","Kuttam Pokuna",0.0909090909090909
+"51","Aukana","Mihintale",0.181818181818182
+"52","Aukana","Sigirya",0.0909090909090909
+"53","Aukana","Sri Maha Bodiya, Ruwanwelisaya",0.0909090909090909
+"54","Aukana","Temple of Tooth Relic",0.0909090909090909
+"55","Aukana","Vatadage",0.0909090909090909
+"56","Bahirawakanda Temple","Ella Rock",0.125
+"57","Bahirawakanda Temple","Ella Town",0.125
+"58","Bahirawakanda Temple","Fort - Colombo",0.125
+"59","Bahirawakanda Temple","Galle Fort",0.125
+"60","Bahirawakanda Temple","Hortan Plains NP",0.125
+"61","Bahirawakanda Temple","Temple of Tooth Relic",0.375
+"62","Bandaranayaka International Airport","Abayagiriya",0.00103842159916926
+"63","Bandaranayaka International Airport","Adam's Peak",0.00623052959501558
+"64","Bandaranayaka International Airport","Ahungalla Beach",0.00103842159916926
+"65","Bandaranayaka International Airport","Arugam Bay Beach",0.00311526479750779
+"66","Bandaranayaka International Airport","Ashokaramaya Temple",0.00207684319833853
+"67","Bandaranayaka International Airport","Aukana",0.00103842159916926
+"68","Bandaranayaka International Airport","Bahirawakanda Temple",0.00311526479750779
+"69","Bandaranayaka International Airport","Basawakkulama Wewa",0.00207684319833853
+"70","Bandaranayaka International Airport","Beach - Mt. Lavinia",0.0186915887850467
+"71","Bandaranayaka International Airport","Beach - Wellawatta",0.00103842159916926
+"72","Bandaranayaka International Airport","Bellanvila Temple",0.00103842159916926
+"73","Bandaranayaka International Airport","Benthota Ganga/Bridge",0.00415368639667705
+"74","Bandaranayaka International Airport","Bickay Nature Reserve",0.00103842159916926
+"75","Bandaranayaka International Airport","BMICH",0.00103842159916926
+"76","Bandaranayaka International Airport","Brief Garden by Bevis Bawa",0.00103842159916926
+"77","Bandaranayaka International Airport","Christ Church Warleigh",0.00207684319833853
+"78","Bandaranayaka International Airport","Coconut Tree Hill",0.00103842159916926
+"79","Bandaranayaka International Airport","Colombo Light House",0.00103842159916926
+"80","Bandaranayaka International Airport","Dabulla Cave Temple",0.0311526479750779
+"81","Bandaranayaka International Airport","Dalawella Beach",0.00623052959501558
+"82","Bandaranayaka International Airport","Dondra Head Lighthouse",0.00519210799584631
+"83","Bandaranayaka International Airport","Dunumadalawa Forest Reserve",0.0083073727933541
+"84","Bandaranayaka International Airport","Dutch Bay Beach",0.00103842159916926
+"85","Bandaranayaka International Airport","Ella Town",0.0155763239875389
+"86","Bandaranayaka International Airport","Eth Pokuna",0.00103842159916926
+"87","Bandaranayaka International Airport","Fort - Colombo",0.0259605399792316
+"88","Bandaranayaka International Airport","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena",0.00311526479750779
+"89","Bandaranayaka International Airport","Galle Beach",0.00311526479750779
+"90","Bandaranayaka International Airport","Galle Face Green",0.0301142263759086
+"91","Bandaranayaka International Airport","Galle Fort",0.100726895119418
+"92","Bandaranayaka International Airport","Gangaramaya Temple, Seemama Malaka Temple, PSM",0.0269989615784008
+"93","Bandaranayaka International Airport","Geoffrey bawa House No. 11",0.00103842159916926
+"94","Bandaranayaka International Airport","Giritale Statue of Lord Buddha",0.00207684319833853
+"95","Bandaranayaka International Airport","Glenloch Tea Factory",0.00311526479750779
+"96","Bandaranayaka International Airport","Goyambokka Beach",0.00103842159916926
+"97","Bandaranayaka International Airport","Habarana Lake",0.00207684319833853
+"98","Bandaranayaka International Airport","Hamilton Canal",0.00103842159916926
+"99","Bandaranayaka International Airport","Hikkaduwa Beach",0.00415368639667705
+"100","Bandaranayaka International Airport","Hortan Plains NP",0.00623052959501558
+"101","Bandaranayaka International Airport","Hummanaya Blow Hole",0.00103842159916926
+"102","Bandaranayaka International Airport","Independence Square Park",0.00415368639667705
+"103","Bandaranayaka International Airport","Isurumuni Viharaya",0.00726895119418484
+"104","Bandaranayaka International Airport","Japanese Peace Pagoda Rumassala",0.00103842159916926
+"105","Bandaranayaka International Airport","Jethawanaramaya",0.0083073727933541
+"106","Bandaranayaka International Airport","Jungle Beach",0.00103842159916926
+"107","Bandaranayaka International Airport","Kadugannawa Railway Museum",0.00207684319833853
+"108","Bandaranayaka International Airport","Kandalama Reservoir",0.00623052959501558
+"109","Bandaranayaka International Airport","Kande Viharaya Temple",0.00103842159916926
+"110","Bandaranayaka International Airport","Kelaniya Raja Maha Viharaya",0.00519210799584631
+"111","Bandaranayaka International Airport","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint",0.0083073727933541
+"112","Bandaranayaka International Airport","King Vijayabahu Palace",0.00103842159916926
+"113","Bandaranayaka International Airport","Kithulgala White Water rafting",0.00311526479750779
+"114","Bandaranayaka International Airport","Koggala Beach",0.00415368639667705
+"115","Bandaranayaka International Airport","Koneshwaram Temple - Trinomalee",0.00311526479750779
+"116","Bandaranayaka International Airport","Kuttam Pokuna",0.00103842159916926
+"117","Bandaranayaka International Airport","Labookellie Tea Factory",0.00207684319833853
+"118","Bandaranayaka International Airport","Lanka Tilaka Raja Maha Viharaya",0.00103842159916926
+"119","Bandaranayaka International Airport","Lipton's Seat",0.00103842159916926
+"120","Bandaranayaka International Airport","Little Adam's Peak Trailhead-Ella",0.00623052959501558
+"121","Bandaranayaka International Airport","Madampai Murugan Temple",0.00207684319833853
+"122","Bandaranayaka International Airport","Maha Parakkrambahu Statue",0.00103842159916926
+"123","Bandaranayaka International Airport","Mahasena's Palace, Rathna Prasad",0.00207684319833853
+"124","Bandaranayaka International Airport","Matara Beach",0.00103842159916926
+"125","Bandaranayaka International Airport","Mihintale",0.0083073727933541
+"126","Bandaranayaka International Airport","Millenium Elephant Foundation",0.00207684319833853
+"127","Bandaranayaka International Airport","Minneriya NP",0.00103842159916926
+"128","Bandaranayaka International Airport","Mirisavatiya",0.00103842159916926
+"129","Bandaranayaka International Airport","Mirissa Beach",0.0134994807892004
+"130","Bandaranayaka International Airport","Moragalla Beach",0.00519210799584631
+"131","Bandaranayaka International Airport","Mulkirigala Rajamahaa Viharaya",0.00103842159916926
+"132","Bandaranayaka International Airport","Nagapooshani Amman Kovil",0.00103842159916926
+"133","Bandaranayaka International Airport","Nallur Kandaswamy Temple",0.00103842159916926
+"134","Bandaranayaka International Airport","Narigama Beach",0.00103842159916926
+"135","Bandaranayaka International Airport","National Museum of Colombo",0.00623052959501558
+"136","Bandaranayaka International Airport","National Zoological Garden",0.00207684319833853
+"137","Bandaranayaka International Airport","Negambo Beach Park",0.0290758047767394
+"138","Bandaranayaka International Airport","Negambo Fish Market",0.0259605399792316
+"139","Bandaranayaka International Airport","Negambo Lagoon",0.0155763239875389
+"140","Bandaranayaka International Airport","Nine Arch Bridge",0.00519210799584631
+"141","Bandaranayaka International Airport","Pettah Market",0.0218068535825545
+"142","Bandaranayaka International Airport","Pidurangala",0.00726895119418484
+"143","Bandaranayaka International Airport","Pigeon Island - Matara",0.00103842159916926
+"144","Bandaranayaka International Airport","Pinnawala Elephant Orphanage",0.0353063343717549
+"145","Bandaranayaka International Airport","Polhena Beach",0.00103842159916926
+"146","Bandaranayaka International Airport","Ponnambalawaneswaram Kovil",0.00103842159916926
+"147","Bandaranayaka International Airport","Potugal Viharaya",0.00103842159916926
+"148","Bandaranayaka International Airport","Ramboda Falls",0.00103842159916926
+"149","Bandaranayaka International Airport","Rawana Waterfalls",0.00415368639667705
+"150","Bandaranayaka International Airport","Royal Botanical Gardens",0.0145379023883697
+"151","Bandaranayaka International Airport","Sacred City of Kataragama",0.00207684319833853
+"152","Bandaranayaka International Airport","Samadhi Buddha Statue",0.00207684319833853
+"153","Bandaranayaka International Airport","Sea Turtle Hatchery - Habaraduwa",0.00103842159916926
+"154","Bandaranayaka International Airport","Sigirya",0.0809968847352025
+"155","Bandaranayaka International Airport","Sinharaja FR",0.00207684319833853
+"156","Bandaranayaka International Airport","Sive Subramaniya Kovil Slave Island",0.00103842159916926
+"157","Bandaranayaka International Airport","Sri Maha Bodiya, Ruwanwelisaya",0.0311526479750779
+"158","Bandaranayaka International Airport","Sri Munnessarama Devalaya",0.00311526479750779
+"159","Bandaranayaka International Airport","Sri Muththumari Amman Kovil",0.00207684319833853
+"160","Bandaranayaka International Airport","Sri Muthumari Amman Kovil, Sri Sitthi Vineyagar Temple",0.00103842159916926
+"161","Bandaranayaka International Airport","SSC",0.00103842159916926
+"162","Bandaranayaka International Airport","St. Andrew's Scots Kirk Church",0.00103842159916926
+"163","Bandaranayaka International Airport","St. Clairs Falls",0.00207684319833853
+"164","Bandaranayaka International Airport","St. Mary's Church Grand Street",0.00103842159916926
+"165","Bandaranayaka International Airport","St. Sebastian Church",0.00415368639667705
+"166","Bandaranayaka International Airport","Stilt Fishing, Koggala",0.00415368639667705
+"167","Bandaranayaka International Airport","Stilt Fishing, Midigama",0.00103842159916926
+"168","Bandaranayaka International Airport","Talangama Lake",0.00103842159916926
+"169","Bandaranayaka International Airport","Tangalle Beach",0.00207684319833853
+"170","Bandaranayaka International Airport","Tawalantenne ViewPoint",0.00519210799584631
+"171","Bandaranayaka International Airport","Temple of Sri Kailawasanthan Swami Devasthanam Kovil",0.00103842159916926
+"172","Bandaranayaka International Airport","Temple of Tooth Relic",0.0934579439252336
+"173","Bandaranayaka International Airport","Thanthirimale",0.00103842159916926
+"174","Bandaranayaka International Airport","The Kandyan Arts and Crafts",0.00103842159916926
+"175","Bandaranayaka International Airport","Thissa Wewa",0.00207684319833853
+"176","Bandaranayaka International Airport","Thuparamaya",0.00415368639667705
+"177","Bandaranayaka International Airport","Townhall - Colombo",0.00103842159916926
+"178","Bandaranayaka International Airport","Udawalawa NP",0.00415368639667705
+"179","Bandaranayaka International Airport","Unawatuna Beach",0.0114226375908619
+"180","Bandaranayaka International Airport","Unawatuna Diving",0.00519210799584631
+"181","Bandaranayaka International Airport","Uppuveli Beach",0.00103842159916926
+"182","Bandaranayaka International Airport","Vatadage",0.0124610591900312
+"183","Bandaranayaka International Airport","Vessagiriya",0.00103842159916926
+"184","Bandaranayaka International Airport","Victor Hasselblad Sea Turtle Research And Conservation Centre",0.00103842159916926
+"185","Bandaranayaka International Airport","Victoria Park",0.00519210799584631
+"186","Bandaranayaka International Airport","Vihara Maha Devi Park",0.00934579439252336
+"187","Bandaranayaka International Airport","Weligama Beach",0.0488058151609553
+"188","Bandaranayaka International Airport","Wewala Beach",0.00103842159916926
+"189","Bandaranayaka International Airport","Wilpattu NP",0.00415368639667705
+"190","Bandaranayaka International Airport","Wolvendaal Church",0.00103842159916926
+"191","Bandaranayaka International Airport","Yala National Park",0.0249221183800623
+"192","Bandaranayaka International Airport","Yapahuwa Rock Fortress",0.00207684319833853
+"193","Barberyn Island/Beruwala Light House","Moragalla Beach",1
+"194","Basawakkulama Wewa","Habarana Lake",0.111111111111111
+"195","Basawakkulama Wewa","Jaffna Dutch Port",0.111111111111111
+"196","Basawakkulama Wewa","Mirisavatiya",0.222222222222222
+"197","Basawakkulama Wewa","Sigirya",0.111111111111111
+"198","Basawakkulama Wewa","Temple of Tooth Relic",0.111111111111111
+"199","Basawakkulama Wewa","Thuparamaya",0.333333333333333
+"200","Batticaloa Light House","Temple of Tooth Relic",1
+"201","Beach - Mt. Lavinia","Beach - Wellawatta",0.0555555555555556
+"202","Beach - Mt. Lavinia","Bentota Beach",0.0555555555555556
+"203","Beach - Mt. Lavinia","Dabulla Cave Temple",0.111111111111111
+"204","Beach - Mt. Lavinia","Fort - Colombo",0.0555555555555556
+"205","Beach - Mt. Lavinia","Galle Face Green",0.0555555555555556
+"206","Beach - Mt. Lavinia","Galle Fort",0.0555555555555556
+"207","Beach - Mt. Lavinia","Gangaramaya Temple, Seemama Malaka Temple, PSM",0.111111111111111
+"208","Beach - Mt. Lavinia","Kandalama Reservoir",0.0555555555555556
+"209","Beach - Mt. Lavinia","Lanka Tilaka Raja Maha Viharaya",0.0555555555555556
+"210","Beach - Mt. Lavinia","Mirissa Beach",0.0555555555555556
+"211","Beach - Mt. Lavinia","Pettah Market",0.111111111111111
+"212","Beach - Mt. Lavinia","Sigirya",0.0555555555555556
+"213","Beach - Mt. Lavinia","Temple of Sri Kailawasanthan Swami Devasthanam Kovil",0.0555555555555556
+"214","Beach - Mt. Lavinia","Unawatuna Beach",0.0555555555555556
+"215","Beach - Mt. Lavinia","Yala National Park",0.0555555555555556
+"216","Beach - Wellawatta","Beach - Mt. Lavinia",0.333333333333333
+"217","Beach - Wellawatta","Colombo Light House",0.333333333333333
+"218","Beach - Wellawatta","Galle Fort",0.333333333333333
+"219","Benthota Ganga/Bridge","Nelum Pokuna Theatre",0.166666666666667
+"220","Benthota Ganga/Bridge","Temple of Tooth Relic",0.166666666666667
+"221","Benthota Ganga/Bridge","Tsunami Honganji Viharaya",0.166666666666667
+"222","Benthota Ganga/Bridge","Victor Hasselblad Sea Turtle Research And Conservation Centre",0.166666666666667
+"223","Benthota Ganga/Bridge","Weligama Beach",0.166666666666667
+"224","Benthota Ganga/Bridge","Yala National Park",0.166666666666667
+"225","Bentota Beach","Pinnawala Elephant Orphanage",0.5
+"226","Bentota Beach","Tsunami Honganji Viharaya",0.5
+"227","Bickay Nature Reserve","Glenloch Tea Factory",0.2
+"228","Bickay Nature Reserve","Nine Arch Bridge",0.2
+"229","Bickay Nature Reserve","Pigeon Island - Matara",0.2
+"230","Bickay Nature Reserve","Ramboda Falls",0.2
+"231","Bickay Nature Reserve","Unawatuna Beach",0.2
+"232","Bluefield Tea Factory","Ella Town",0.117647058823529
+"233","Bluefield Tea Factory","Galle Fort",0.117647058823529
+"234","Bluefield Tea Factory","Hortan Plains NP",0.0588235294117647
+"235","Bluefield Tea Factory","Labookellie Tea Factory",0.117647058823529
+"236","Bluefield Tea Factory","Lake Gregory",0.117647058823529
+"237","Bluefield Tea Factory","Seetha Amman Kovil",0.176470588235294
+"238","Bluefield Tea Factory","Tawalantenne ViewPoint",0.0588235294117647
+"239","Bluefield Tea Factory","Temple of Tooth Relic",0.117647058823529
+"240","Bluefield Tea Factory","Yala National Park",0.117647058823529
+"241","BMICH","Fort - Colombo",0.111111111111111
+"242","BMICH","Giritale Statue of Lord Buddha",0.111111111111111
+"243","BMICH","Independence Square Park",0.333333333333333
+"244","BMICH","Negambo Fish Market",0.111111111111111
+"245","BMICH","Royal Botanical Gardens",0.111111111111111
+"246","BMICH","Sri Sambodhi Viharaya/Vipassana Meditation Center",0.111111111111111
+"247","BMICH","Townhall - Colombo",0.111111111111111
+"248","Brief Garden by Bevis Bawa","Bentota Beach",0.2
+"249","Brief Garden by Bevis Bawa","Galle Fort",0.2
+"250","Brief Garden by Bevis Bawa","Lunuganga Country Estate",0.2
+"251","Brief Garden by Bevis Bawa","Pettah Market",0.2
+"252","Brief Garden by Bevis Bawa","Sri Maha Bodiya, Ruwanwelisaya",0.2
+"253","Buduruwagala Raja Maha Viharaya","Ella Town",0.2
+"254","Buduruwagala Raja Maha Viharaya","Nine Arch Bridge",0.2
+"255","Buduruwagala Raja Maha Viharaya","Sacred City of Kataragama",0.2
+"256","Buduruwagala Raja Maha Viharaya","Thissa Wewa",0.2
+"257","Buduruwagala Raja Maha Viharaya","Weligama Beach",0.2
+"258","Buduruwagala Rock Carvings","Buduruwagala Raja Maha Viharaya",0.25
+"259","Buduruwagala Rock Carvings","Seetha Amman Kovil",0.125
+"260","Buduruwagala Rock Carvings","Tangalle Beach",0.375
+"261","Buduruwagala Rock Carvings","Udawalawa NP",0.125
+"262","Buduruwagala Rock Carvings","Weligama Beach",0.125
+"263","Captain Dawson Tower","Kadugannawa Rock View",1
+"264","CCC Ground","Galle Fort",0.5
+"265","CCC Ground","National Museum of Colombo",0.5
+"266","Chandrika Wewa","Star Fort Matara",0.166666666666667
+"267","Chandrika Wewa","Stilt Fishing, Midigama",0.166666666666667
+"268","Chandrika Wewa","Udawalawa NP",0.333333333333333
+"269","Chandrika Wewa","Weligama Beach",0.333333333333333
+"270","Christ Church Warleigh","Adam's Peak",0.4
+"271","Christ Church Warleigh","Devon Falls",0.2
+"272","Christ Church Warleigh","Lipton's Seat",0.2
+"273","Christ Church Warleigh","Weligama Beach",0.2
+"274","Coconut Tree Hill","Dalawella Beach",0.125
+"275","Coconut Tree Hill","Galle Fort",0.5
+"276","Coconut Tree Hill","Mirissa Beach",0.125
+"277","Coconut Tree Hill","Turtle Beach",0.125
+"278","Coconut Tree Hill","Weligama Beach",0.125
+"279","Colombo Light House","Beach - Mt. Lavinia",0.142857142857143
+"280","Colombo Light House","Fort - Colombo",0.285714285714286
+"281","Colombo Light House","Gangaramaya Temple, Seemama Malaka Temple, PSM",0.142857142857143
+"282","Colombo Light House","Negambo Beach Park",0.142857142857143
+"283","Colombo Light House","Sambodhi Chaithya",0.142857142857143
+"284","Colombo Light House","Wolvendaal Church",0.142857142857143
+"285","Dabatenna Tea Factory","Hortan Plains NP",0.25
+"286","Dabatenna Tea Factory","Tangalle Beach",0.25
+"287","Dabatenna Tea Factory","Temple of Tooth Relic",0.25
+"288","Dabatenna Tea Factory","Yala National Park",0.25
+"289","Dabulla Cave Temple","Abayagiriya",0.00561797752808989
+"290","Dabulla Cave Temple","Adam's Peak",0.00561797752808989
+"291","Dabulla Cave Temple","Benthota Ganga/Bridge",0.00561797752808989
+"292","Dabulla Cave Temple","Bluefield Tea Factory",0.0112359550561798
+"293","Dabulla Cave Temple","Dunumadalawa Forest Reserve",0.00561797752808989
+"294","Dabulla Cave Temple","Ella Town",0.0168539325842697
+"295","Dabulla Cave Temple","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena",0.0168539325842697
+"296","Dabulla Cave Temple","Galle Face Green",0.00561797752808989
+"297","Dabulla Cave Temple","Galle Fort",0.0280898876404494
+"298","Dabulla Cave Temple","Giritale Statue of Lord Buddha",0.00561797752808989
+"299","Dabulla Cave Temple","Hortan Plains NP",0.0112359550561798
+"300","Dabulla Cave Temple","Japanese Peace Pagoda Rumassala",0.00561797752808989
+"301","Dabulla Cave Temple","Kadugannawa Rock View",0.0112359550561798
+"302","Dabulla Cave Temple","Kandalama Reservoir",0.0224719101123595
+"303","Dabulla Cave Temple","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint",0.0730337078651685
+"304","Dabulla Cave Temple","Labookellie Tea Factory",0.00561797752808989
+"305","Dabulla Cave Temple","Lanka Tilaka Raja Maha Viharaya",0.00561797752808989
+"306","Dabulla Cave Temple","Maha Parakkrambahu Statue",0.00561797752808989
+"307","Dabulla Cave Temple","Mihintale",0.0112359550561798
+"308","Dabulla Cave Temple","Mirissa Beach",0.00561797752808989
+"309","Dabulla Cave Temple","Nalanda Gedige",0.0168539325842697
+"310","Dabulla Cave Temple","Negambo Beach Park",0.00561797752808989
+"311","Dabulla Cave Temple","Negambo Fish Market",0.00561797752808989
+"312","Dabulla Cave Temple","Pedro Tea Estate",0.00561797752808989
+"313","Dabulla Cave Temple","Pidurangala",0.0112359550561798
+"314","Dabulla Cave Temple","Pinnawala Elephant Orphanage",0.0280898876404494
+"315","Dabulla Cave Temple","Potugal Viharaya",0.00561797752808989
+"316","Dabulla Cave Temple","Rankoth Vehera",0.00561797752808989
+"317","Dabulla Cave Temple","Rawana Waterfalls",0.00561797752808989
+"318","Dabulla Cave Temple","Royal Botanical Gardens",0.0561797752808989
+"319","Dabulla Cave Temple","Sigirya",0.191011235955056
+"320","Dabulla Cave Temple","Sri Maha Bodiya, Ruwanwelisaya",0.0168539325842697
+"321","Dabulla Cave Temple","Sri Muththumari Amman Kovil",0.0842696629213483
+"322","Dabulla Cave Temple","St. Sebastian Church",0.00561797752808989
+"323","Dabulla Cave Temple","Stilt Fishing, Koggala",0.00561797752808989
+"324","Dabulla Cave Temple","Temple of Tooth Relic",0.230337078651685
+"325","Dabulla Cave Temple","Thissamaharamaya Viharaya",0.0112359550561798
+"326","Dabulla Cave Temple","Thuparamaya",0.00561797752808989
+"327","Dabulla Cave Temple","Uppuveli Beach",0.00561797752808989
+"328","Dabulla Cave Temple","Vatadage",0.0112359550561798
+"329","Dabulla Cave Temple","Weligama Beach",0.0112359550561798
+"330","Dabulla Cave Temple","Yala National Park",0.0112359550561798
+"331","Dalawella Beach","Dewata Beach, Surfing",0.125
+"332","Dalawella Beach","Fort - Colombo",0.125
+"333","Dalawella Beach","Galle Fort",0.125
+"334","Dalawella Beach","Stilt Fishing, Koggala",0.125
+"335","Dalawella Beach","Tangalle Beach",0.125
+"336","Dalawella Beach","Taprobane Island",0.125
+"337","Dalawella Beach","Weligama Beach",0.25
+"338","Devinuwara Sri Vishnu Maha Devalaya","Colombo Light House",0.2
+"339","Devinuwara Sri Vishnu Maha Devalaya","Dondra Head Lighthouse",0.2
+"340","Devinuwara Sri Vishnu Maha Devalaya","Matara Beach",0.2
+"341","Devinuwara Sri Vishnu Maha Devalaya","Mirissa Beach",0.2
+"342","Devinuwara Sri Vishnu Maha Devalaya","Unawatuna Beach",0.2
+"343","Devon Falls","Colombo Light House",0.166666666666667
+"344","Devon Falls","Ella Town",0.166666666666667
+"345","Devon Falls","Galle Fort",0.166666666666667
+"346","Devon Falls","Lake Gregory",0.166666666666667
+"347","Devon Falls","St. Clairs Falls",0.166666666666667
+"348","Devon Falls","Udawalawa NP",0.166666666666667
+"349","Dewata Beach, Surfing","Brief Garden by Bevis Bawa",0.125
+"350","Dewata Beach, Surfing","Galle Beach",0.25
+"351","Dewata Beach, Surfing","Galle Fort",0.5
+"352","Dewata Beach, Surfing","Unawatuna Diving",0.125
+"353","Dewathura Ella","Bluefield Tea Factory",0.166666666666667
+"354","Dewathura Ella","Labookellie Tea Factory",0.166666666666667
+"355","Dewathura Ella","Ramboda Falls",0.5
+"356","Dewathura Ella","Royal Botanical Gardens",0.166666666666667
+"357","Dondra Head Lighthouse","Benthota Ganga/Bridge",0.0909090909090909
+"358","Dondra Head Lighthouse","Galle Fort",0.181818181818182
+"359","Dondra Head Lighthouse","Mirissa Beach",0.181818181818182
+"360","Dondra Head Lighthouse","Sri Muththumari Amman Kovil",0.0909090909090909
+"361","Dondra Head Lighthouse","Stilt Fishing, Koggala",0.0909090909090909
+"362","Dondra Head Lighthouse","Udawalawa NP",0.0909090909090909
+"363","Dondra Head Lighthouse","Weherahena Poorwarama Rajamaha Viharaya",0.0909090909090909
+"364","Dondra Head Lighthouse","Weligama Beach",0.181818181818182
+"365","Dowa Rock Temple","Buduruwagala Rock Carvings",0.142857142857143
+"366","Dowa Rock Temple","Ella Town",0.285714285714286
+"367","Dowa Rock Temple","Nine Arch Bridge",0.285714285714286
+"368","Dowa Rock Temple","Rawana Waterfalls",0.285714285714286
+"369","Dunumadalawa Forest Reserve","Main Surfing Point Hikkaduwa",0.333333333333333
+"370","Dunumadalawa Forest Reserve","Temple of Tooth Relic",0.333333333333333
+"371","Dunumadalawa Forest Reserve","Yala National Park",0.333333333333333
+"372","Dutch Bay Beach","Galle Fort",0.0769230769230769
+"373","Dutch Bay Beach","Koneshwaram Temple - Trinomalee",0.230769230769231
+"374","Dutch Bay Beach","Nilaveli Beach",0.0769230769230769
+"375","Dutch Bay Beach","Shri Badrakali Amman Hindu Temple",0.230769230769231
+"376","Dutch Bay Beach","Sigirya",0.0769230769230769
+"377","Dutch Bay Beach","Temple of Tooth Relic",0.0769230769230769
+"378","Dutch Bay Beach","Uppuveli Beach",0.230769230769231
+"379","Ella Rock","Little Adam's Peak Trailhead-Ella",0.166666666666667
+"380","Ella Rock","Nine Arch Bridge",0.166666666666667
+"381","Ella Rock","Rawana Waterfalls",0.5
+"382","Ella Rock","Small Ravana Waterfalls",0.166666666666667
+"383","Ella Town","Adam's Peak",0.0151515151515152
+"384","Ella Town","Bahirawakanda Temple",0.0151515151515152
+"385","Ella Town","Buduruwagala Raja Maha Viharaya",0.0151515151515152
+"386","Ella Town","Dunumadalawa Forest Reserve",0.0151515151515152
+"387","Ella Town","Galle Fort",0.0909090909090909
+"388","Ella Town","Hortan Plains NP",0.0151515151515152
+"389","Ella Town","Koneshwaram Temple - Trinomalee",0.0151515151515152
+"390","Ella Town","Labookellie Tea Factory",0.0151515151515152
+"391","Ella Town","Little Adam's Peak Trailhead-Ella",0.151515151515152
+"392","Ella Town","Negambo Beach Park",0.0151515151515152
+"393","Ella Town","Nine Arch Bridge",0.0757575757575758
+"394","Ella Town","Rawana Waterfalls",0.0757575757575758
+"395","Ella Town","Royal Botanical Gardens",0.0151515151515152
+"396","Ella Town","Sigirya",0.0454545454545455
+"397","Ella Town","Small Ravana Waterfalls",0.0757575757575758
+"398","Ella Town","St. Clairs Falls",0.0151515151515152
+"399","Ella Town","Temple of Tooth Relic",0.0909090909090909
+"400","Ella Town","Udawalawa NP",0.0454545454545455
+"401","Ella Town","Unawatuna Beach",0.0151515151515152
+"402","Ella Town","Victoria Park",0.0151515151515152
+"403","Ella Town","Weligama Beach",0.0606060606060606
+"404","Ella Town","Yala National Park",0.0909090909090909
+"405","Ella Town","Yatala Vehera",0.0151515151515152
+"406","Embekka Dewalaya","Lanka Tilaka Raja Maha Viharaya",0.666666666666667
+"407","Embekka Dewalaya","Royal Botanical Gardens",0.333333333333333
+"408","Eth Pokuna","Dabulla Cave Temple",0.0666666666666667
+"409","Eth Pokuna","Jethawanaramaya",0.0666666666666667
+"410","Eth Pokuna","Kuttam Pokuna",0.133333333333333
+"411","Eth Pokuna","Lankaramaya",0.133333333333333
+"412","Eth Pokuna","Mahasena's Palace, Rathna Prasad",0.266666666666667
+"413","Eth Pokuna","Mihintale",0.0666666666666667
+"414","Eth Pokuna","Pidurangala",0.133333333333333
+"415","Eth Pokuna","Sigirya",0.0666666666666667
+"416","Eth Pokuna","Sri Maha Bodiya, Ruwanwelisaya",0.0666666666666667
+"417","Fort - Batticaloa","Mirisavatiya",1
+"418","Fort - Colombo","Bandaranayaka International Airport",0.0151515151515152
+"419","Fort - Colombo","Beach - Wellawatta",0.0151515151515152
+"420","Fort - Colombo","Bentota Beach",0.0151515151515152
+"421","Fort - Colombo","BMICH",0.0151515151515152
+"422","Fort - Colombo","Dabulla Cave Temple",0.0303030303030303
+"423","Fort - Colombo","Galle Face Green",0.212121212121212
+"424","Fort - Colombo","Galle Fort",0.0454545454545455
+"425","Fort - Colombo","Gangaramaya Temple, Seemama Malaka Temple, PSM",0.0909090909090909
+"426","Fort - Colombo","Independence Square Park",0.0303030303030303
+"427","Fort - Colombo","Koggala Beach",0.0151515151515152
+"428","Fort - Colombo","Moragalla Beach",0.0151515151515152
+"429","Fort - Colombo","Negambo Fish Market",0.0151515151515152
+"430","Fort - Colombo","Pettah Market",0.212121212121212
+"431","Fort - Colombo","Pinnawala Elephant Orphanage",0.0151515151515152
+"432","Fort - Colombo","Royal Botanical Gardens",0.0151515151515152
+"433","Fort - Colombo","Sambodhi Chaithya",0.0151515151515152
+"434","Fort - Colombo","Sigirya",0.0303030303030303
+"435","Fort - Colombo","Sive Subramaniya Kovil Slave Island",0.0303030303030303
+"436","Fort - Colombo","Sri Maha Bodiya, Ruwanwelisaya",0.0303030303030303
+"437","Fort - Colombo","St. Andrew's Scots Kirk Church",0.0151515151515152
+"438","Fort - Colombo","Temple of Tooth Relic",0.0303030303030303
+"439","Fort - Colombo","Townhall - Colombo",0.0151515151515152
+"440","Fort - Colombo","Unawatuna Beach",0.0303030303030303
+"441","Fort - Colombo","Vihara Maha Devi Park",0.0454545454545455
+"442","Gadaladeniya Temple","Lanka Tilaka Raja Maha Viharaya",0.4
+"443","Gadaladeniya Temple","Temple of Tooth Relic",0.6
+"444","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena","Aukana",0.0232558139534884
+"445","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena","Dabulla Cave Temple",0.151162790697674
+"446","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena","Dutch Bay Beach",0.0116279069767442
+"447","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena","Giritale Statue of Lord Buddha",0.0465116279069767
+"448","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena","Jaffna Public Libraray",0.0116279069767442
+"449","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena","Jethawanaramaya",0.0116279069767442
+"450","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint",0.0116279069767442
+"451","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena","Lotus Pond",0.116279069767442
+"452","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena","Maha Parakkrambahu Statue",0.0116279069767442
+"453","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena","Menik Viharaya",0.0116279069767442
+"454","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena","Nalanda Gedige",0.0116279069767442
+"455","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena","Negambo Lagoon",0.0116279069767442
+"456","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena","Nine Arch Bridge",0.0116279069767442
+"457","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena","Pidurangala",0.0116279069767442
+"458","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena","Pinnawala Elephant Orphanage",0.0116279069767442
+"459","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena","Rankoth Vehera",0.0348837209302326
+"460","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena","Royal Botanical Gardens",0.0116279069767442
+"461","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena","Sigirya",0.255813953488372
+"462","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena","Sri Maha Bodiya, Ruwanwelisaya",0.0232558139534884
+"463","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena","Sri Muththumari Amman Kovil",0.0348837209302326
+"464","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena","Temple of Tooth Relic",0.0813953488372093
+"465","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena","Tivanka Pilimage",0.0581395348837209
+"466","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena","Uppuveli Beach",0.0116279069767442
+"467","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena","Vatadage",0.0232558139534884
+"468","Galle Beach","Galle Fort",0.642857142857143
+"469","Galle Beach","Mirissa Beach",0.0714285714285714
+"470","Galle Beach","Royal Botanical Gardens",0.0714285714285714
+"471","Galle Beach","Sri Meenachi Sundareshwarar Temple",0.0714285714285714
+"472","Galle Beach","Tsunami Honganji Viharaya",0.0714285714285714
+"473","Galle Beach","Unawatuna Beach",0.0714285714285714
+"474","Galle Face Green","Bandaranayaka International Airport",0.015625
+"475","Galle Face Green","Colombo Light House",0.03125
+"476","Galle Face Green","Fort - Colombo",0.21875
+"477","Galle Face Green","Galle Fort",0.09375
+"478","Galle Face Green","Gangaramaya Temple, Seemama Malaka Temple, PSM",0.09375
+"479","Galle Face Green","Geoffrey bawa House No. 11",0.015625
+"480","Galle Face Green","Hikkaduwa Beach",0.015625
+"481","Galle Face Green","Independence Square Park",0.015625
+"482","Galle Face Green","Kandalama Reservoir",0.015625
+"483","Galle Face Green","Kithulgala White Water rafting",0.015625
+"484","Galle Face Green","Moragalla Beach",0.015625
+"485","Galle Face Green","National Museum of Colombo",0.03125
+"486","Galle Face Green","Negambo Beach Park",0.015625
+"487","Galle Face Green","Negambo Fish Market",0.015625
+"488","Galle Face Green","Nine Arch Bridge",0.015625
+"489","Galle Face Green","Pettah Market",0.078125
+"490","Galle Face Green","Pinnawala Elephant Orphanage",0.046875
+"491","Galle Face Green","Royal Botanical Gardens",0.015625
+"492","Galle Face Green","Sambodhi Chaithya",0.015625
+"493","Galle Face Green","St. Andrew's Scots Kirk Church",0.0625
+"494","Galle Face Green","Temple of Tooth Relic",0.0625
+"495","Galle Face Green","Townhall - Colombo",0.015625
+"496","Galle Face Green","Unawatuna Beach",0.015625
+"497","Galle Face Green","Vihara Maha Devi Park",0.015625
+"498","Galle Face Green","Weligama Beach",0.015625
+"499","Galle Face Green","Wewala Beach",0.015625
+"500","Galle Face Green","Wolvendaal Church",0.015625
+"501","Galle Fort","Ahungalla Beach",0.0106382978723404
+"502","Galle Fort","Bahirawakanda Temple",0.00531914893617021
+"503","Galle Fort","Bandaranayaka International Airport",0.0106382978723404
+"504","Galle Fort","Barberyn Island/Beruwala Light House",0.00531914893617021
+"505","Galle Fort","Beach - Mt. Lavinia",0.0212765957446809
+"506","Galle Fort","Beach - Wellawatta",0.00531914893617021
+"507","Galle Fort","Bentota Beach",0.00531914893617021
+"508","Galle Fort","Brief Garden by Bevis Bawa",0.0106382978723404
+"509","Galle Fort","CCC Ground",0.00531914893617021
+"510","Galle Fort","Christ Church Warleigh",0.00531914893617021
+"511","Galle Fort","Dabulla Cave Temple",0.00531914893617021
+"512","Galle Fort","Dalawella Beach",0.0159574468085106
+"513","Galle Fort","Dewata Beach, Surfing",0.00531914893617021
+"514","Galle Fort","Dondra Head Lighthouse",0.00531914893617021
+"515","Galle Fort","Ella Town",0.0159574468085106
+"516","Galle Fort","Fort - Colombo",0.0212765957446809
+"517","Galle Fort","Galle Beach",0.0265957446808511
+"518","Galle Fort","Galle Face Green",0.0319148936170213
+"519","Galle Fort","Gangaramaya Temple, Seemama Malaka Temple, PSM",0.0265957446808511
+"520","Galle Fort","Hikkaduwa Beach",0.0372340425531915
+"521","Galle Fort","Hiriketiya Beach",0.00531914893617021
+"522","Galle Fort","Hortan Plains NP",0.00531914893617021
+"523","Galle Fort","Hummanaya Blow Hole",0.00531914893617021
+"524","Galle Fort","Independence Square Park",0.00531914893617021
+"525","Galle Fort","Japanese Peace Pagoda Rumassala",0.0319148936170213
+"526","Galle Fort","Jethawanaramaya",0.00531914893617021
+"527","Galle Fort","Jungle Beach",0.0106382978723404
+"528","Galle Fort","Kadugannawa Railway Museum",0.00531914893617021
+"529","Galle Fort","Kande Viharaya Temple",0.0159574468085106
+"530","Galle Fort","Koggala Beach",0.0212765957446809
+"531","Galle Fort","Lipton's Seat",0.00531914893617021
+"532","Galle Fort","Lunuganga Country Estate",0.0159574468085106
+"533","Galle Fort","Madu Ganga",0.0106382978723404
+"534","Galle Fort","Main Surfing Point Hikkaduwa",0.0106382978723404
+"535","Galle Fort","Mihintale",0.0106382978723404
+"536","Galle Fort","Mirissa Beach",0.0478723404255319
+"537","Galle Fort","Moragalla Beach",0.00531914893617021
+"538","Galle Fort","Narigama Beach",0.00531914893617021
+"539","Galle Fort","National Museum of Colombo",0.00531914893617021
+"540","Galle Fort","Negambo Beach Park",0.0106382978723404
+"541","Galle Fort","Negambo Fish Market",0.00531914893617021
+"542","Galle Fort","Negambo Lagoon",0.0106382978723404
+"543","Galle Fort","Pettah Market",0.0265957446808511
+"544","Galle Fort","Pigeon Island - Matara",0.00531914893617021
+"545","Galle Fort","Pinnawala Elephant Orphanage",0.0106382978723404
+"546","Galle Fort","Polhena Beach",0.00531914893617021
+"547","Galle Fort","Royal Botanical Gardens",0.0106382978723404
+"548","Galle Fort","Sacred City of Kataragama",0.0106382978723404
+"549","Galle Fort","Sea Turtle Hatchery - Habaraduwa",0.0265957446808511
+"550","Galle Fort","Sigirya",0.0106382978723404
+"551","Galle Fort","Sive Subramaniya Kovil Slave Island",0.00531914893617021
+"552","Galle Fort","Sri Maha Bodiya, Ruwanwelisaya",0.00531914893617021
+"553","Galle Fort","Sri Meenachi Sundareshwarar Temple",0.0159574468085106
+"554","Galle Fort","Star Fort Matara",0.00531914893617021
+"555","Galle Fort","Stilt Fishing, Kabalana",0.00531914893617021
+"556","Galle Fort","Stilt Fishing, Koggala",0.0159574468085106
+"557","Galle Fort","Stilt Fishing, Midigama",0.0106382978723404
+"558","Galle Fort","Tangalle Beach",0.00531914893617021
+"559","Galle Fort","Temple of Tooth Relic",0.0319148936170213
+"560","Galle Fort","Tsunami Honganji Viharaya",0.0265957446808511
+"561","Galle Fort","Unawatuna Beach",0.0585106382978723
+"562","Galle Fort","Unawatuna Diving",0.0159574468085106
+"563","Galle Fort","Uwa Halpewatta Tea Factory",0.00531914893617021
+"564","Galle Fort","Victor Hasselblad Sea Turtle Research And Conservation Centre",0.0106382978723404
+"565","Galle Fort","Victoria Park",0.00531914893617021
+"566","Galle Fort","Vihara Maha Devi Park",0.0212765957446809
+"567","Galle Fort","Weligama Beach",0.101063829787234
+"568","Galle Fort","Yala National Park",0.0159574468085106
+"569","Gangaramaya Temple, Seemama Malaka Temple, PSM","Brief Garden by Bevis Bawa",0.0151515151515152
+"570","Gangaramaya Temple, Seemama Malaka Temple, PSM","Dabulla Cave Temple",0.0151515151515152
+"571","Gangaramaya Temple, Seemama Malaka Temple, PSM","Fort - Colombo",0.121212121212121
+"572","Gangaramaya Temple, Seemama Malaka Temple, PSM","Galle Face Green",0.106060606060606
+"573","Gangaramaya Temple, Seemama Malaka Temple, PSM","Galle Fort",0.0606060606060606
+"574","Gangaramaya Temple, Seemama Malaka Temple, PSM","Independence Square Park",0.0606060606060606
+"575","Gangaramaya Temple, Seemama Malaka Temple, PSM","Jaffna Public Libraray",0.0151515151515152
+"576","Gangaramaya Temple, Seemama Malaka Temple, PSM","Kalutara Temple",0.0151515151515152
+"577","Gangaramaya Temple, Seemama Malaka Temple, PSM","Kelaniya Raja Maha Viharaya",0.0151515151515152
+"578","Gangaramaya Temple, Seemama Malaka Temple, PSM","Lanka Tilaka Raja Maha Viharaya",0.0151515151515152
+"579","Gangaramaya Temple, Seemama Malaka Temple, PSM","Little Adam's Peak Trailhead-Ella",0.0151515151515152
+"580","Gangaramaya Temple, Seemama Malaka Temple, PSM","Negambo Fish Market",0.0151515151515152
+"581","Gangaramaya Temple, Seemama Malaka Temple, PSM","Negambo Lagoon",0.0151515151515152
+"582","Gangaramaya Temple, Seemama Malaka Temple, PSM","Pettah Market",0.0909090909090909
+"583","Gangaramaya Temple, Seemama Malaka Temple, PSM","Pinnawala Elephant Orphanage",0.0303030303030303
+"584","Gangaramaya Temple, Seemama Malaka Temple, PSM","Royal Botanical Gardens",0.0303030303030303
+"585","Gangaramaya Temple, Seemama Malaka Temple, PSM","Sigirya",0.0151515151515152
+"586","Gangaramaya Temple, Seemama Malaka Temple, PSM","Sive Subramaniya Kovil Slave Island",0.0151515151515152
+"587","Gangaramaya Temple, Seemama Malaka Temple, PSM","Temple of Sri Kailawasanthan Swami Devasthanam Kovil",0.0151515151515152
+"588","Gangaramaya Temple, Seemama Malaka Temple, PSM","Temple of Tooth Relic",0.0909090909090909
+"589","Gangaramaya Temple, Seemama Malaka Temple, PSM","Townhall - Colombo",0.0606060606060606
+"590","Gangaramaya Temple, Seemama Malaka Temple, PSM","Tsunami Honganji Viharaya",0.0151515151515152
+"591","Gangaramaya Temple, Seemama Malaka Temple, PSM","Unawatuna Diving",0.0151515151515152
+"592","Gangaramaya Temple, Seemama Malaka Temple, PSM","Vihara Maha Devi Park",0.121212121212121
+"593","Gangaramaya Temple, Seemama Malaka Temple, PSM","Wolvendaal Church",0.0151515151515152
+"594","Geoffrey bawa House No. 11","Fort - Colombo",0.25
+"595","Geoffrey bawa House No. 11","Gangaramaya Temple, Seemama Malaka Temple, PSM",0.25
+"596","Geoffrey bawa House No. 11","Nine Arch Bridge",0.25
+"597","Geoffrey bawa House No. 11","St. Sebastian Church",0.25
+"598","Getambe Temple","Kadugannawa Railway Museum",0.333333333333333
+"599","Getambe Temple","Royal Botanical Gardens",0.333333333333333
+"600","Getambe Temple","Temple of Tooth Relic",0.333333333333333
+"601","Giragama Tea Factory","Galle Fort",0.2
+"602","Giragama Tea Factory","Kadugannawa Rock View",0.2
+"603","Giragama Tea Factory","Kithulgala White Water rafting",0.2
+"604","Giragama Tea Factory","Pinnawala Elephant Orphanage",0.2
+"605","Giragama Tea Factory","Udawalawa NP",0.2
+"606","Giritale Statue of Lord Buddha","Dabulla Cave Temple",0.142857142857143
+"607","Giritale Statue of Lord Buddha","Dutch Bay Beach",0.0714285714285714
+"608","Giritale Statue of Lord Buddha","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint",0.428571428571429
+"609","Giritale Statue of Lord Buddha","Maha Parakkrambahu Statue",0.0714285714285714
+"610","Giritale Statue of Lord Buddha","Sigirya",0.142857142857143
+"611","Giritale Statue of Lord Buddha","Temple of Tooth Relic",0.0714285714285714
+"612","Giritale Statue of Lord Buddha","Vatadage",0.0714285714285714
+"613","Glenloch Tea Factory","Bickay Nature Reserve",0.0454545454545455
+"614","Glenloch Tea Factory","Chandrika Wewa",0.0454545454545455
+"615","Glenloch Tea Factory","Dewathura Ella",0.0454545454545455
+"616","Glenloch Tea Factory","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint",0.0454545454545455
+"617","Glenloch Tea Factory","Mahasena's Palace, Rathna Prasad",0.0454545454545455
+"618","Glenloch Tea Factory","Mirissa Beach",0.0454545454545455
+"619","Glenloch Tea Factory","Pettah Market",0.0454545454545455
+"620","Glenloch Tea Factory","Ramboda Falls",0.181818181818182
+"621","Glenloch Tea Factory","Seetha Amman Kovil",0.0454545454545455
+"622","Glenloch Tea Factory","Sigirya",0.0454545454545455
+"623","Glenloch Tea Factory","Tawalantenne ViewPoint",0.363636363636364
+"624","Glenloch Tea Factory","Temple of Tooth Relic",0.0454545454545455
+"625","Goyambokka Beach","Galle Fort",0.25
+"626","Goyambokka Beach","Mirissa Beach",0.25
+"627","Goyambokka Beach","Stilt Fishing, Midigama",0.25
+"628","Goyambokka Beach","Unawatuna Beach",0.25
+"629","Green Path Colombo","Hikkaduwa Beach",0.5
+"630","Green Path Colombo","National Museum of Colombo",0.5
+"631","Habarana Lake","Dabulla Cave Temple",0.25
+"632","Habarana Lake","Isurumuni Viharaya",0.25
+"633","Habarana Lake","Pidurangala",0.25
+"634","Habarana Lake","Pinnawala Elephant Orphanage",0.25
+"635","Hamilton Canal","Jethawanaramaya",0.25
+"636","Hamilton Canal","Negambo Beach Park",0.25
+"637","Hamilton Canal","Negambo Fish Market",0.5
+"638","Hasalaka Gamini War Memorial","Nallur Kandaswamy Temple",1
+"639","Hikkaduwa Beach","Ella Town",0.0769230769230769
+"640","Hikkaduwa Beach","Galle Fort",0.153846153846154
+"641","Hikkaduwa Beach","Independence Square Park",0.0769230769230769
+"642","Hikkaduwa Beach","Little Adam's Peak Trailhead-Ella",0.0769230769230769
+"643","Hikkaduwa Beach","Madu Ganga",0.153846153846154
+"644","Hikkaduwa Beach","Narigama Beach",0.0769230769230769
+"645","Hikkaduwa Beach","Negambo Beach Park",0.0769230769230769
+"646","Hikkaduwa Beach","Sacred City of Kataragama",0.0769230769230769
+"647","Hikkaduwa Beach","Sea Turtle Hatchery & Rescue Center",0.0769230769230769
+"648","Hikkaduwa Beach","Temple of Tooth Relic",0.0769230769230769
+"649","Hikkaduwa Beach","Wewala Beach",0.0769230769230769
+"650","Hiriketiya Beach","Weligama Beach",1
+"651","Hortan Plains NP","Adam's Peak",0.0434782608695652
+"652","Hortan Plains NP","Chandrika Wewa",0.0217391304347826
+"653","Hortan Plains NP","Dowa Rock Temple",0.0434782608695652
+"654","Hortan Plains NP","Ella Rock",0.0217391304347826
+"655","Hortan Plains NP","Ella Town",0.152173913043478
+"656","Hortan Plains NP","Galle Fort",0.0217391304347826
+"657","Hortan Plains NP","Jethawanaramaya",0.0217391304347826
+"658","Hortan Plains NP","Kande Viharaya Temple",0.0217391304347826
+"659","Hortan Plains NP","Kithulgala White Water rafting",0.0434782608695652
+"660","Hortan Plains NP","Lake Gregory",0.0434782608695652
+"661","Hortan Plains NP","Little Adam's Peak Trailhead-Ella",0.0434782608695652
+"662","Hortan Plains NP","Mirissa Beach",0.0217391304347826
+"663","Hortan Plains NP","Negambo Beach Park",0.0217391304347826
+"664","Hortan Plains NP","Nine Arch Bridge",0.0434782608695652
+"665","Hortan Plains NP","Pedro Tea Estate",0.0217391304347826
+"666","Hortan Plains NP","Rawana Waterfalls",0.0652173913043478
+"667","Hortan Plains NP","Royal Botanical Gardens",0.0217391304347826
+"668","Hortan Plains NP","Sea Turtle Hatchery - Habaraduwa",0.0217391304347826
+"669","Hortan Plains NP","Seetha Amman Kovil",0.0652173913043478
+"670","Hortan Plains NP","Sinharaja FR",0.0434782608695652
+"671","Hortan Plains NP","Small Ravana Waterfalls",0.0217391304347826
+"672","Hortan Plains NP","Udawalawa NP",0.0217391304347826
+"673","Hortan Plains NP","Unawatuna Beach",0.0217391304347826
+"674","Hortan Plains NP","Victoria Park",0.0652173913043478
+"675","Hortan Plains NP","Yala National Park",0.0652173913043478
+"676","Hummanaya Blow Hole","Pigeon Island - Matara",0.25
+"677","Hummanaya Blow Hole","Weligama Beach",0.25
+"678","Hummanaya Blow Hole","Yala National Park",0.5
+"679","Independence Square Park","Bandaranayaka International Airport",0.037037037037037
+"680","Independence Square Park","BMICH",0.185185185185185
+"681","Independence Square Park","Dabulla Cave Temple",0.0740740740740741
+"682","Independence Square Park","Fort - Colombo",0.037037037037037
+"683","Independence Square Park","Galle Face Green",0.111111111111111
+"684","Independence Square Park","Gangaramaya Temple, Seemama Malaka Temple, PSM",0.148148148148148
+"685","Independence Square Park","Geoffrey bawa House No. 11",0.037037037037037
+"686","Independence Square Park","Kalutara Temple",0.037037037037037
+"687","Independence Square Park","National Museum of Colombo",0.0740740740740741
+"688","Independence Square Park","Negambo Fish Market",0.037037037037037
+"689","Independence Square Park","Nelum Pokuna Theatre",0.037037037037037
+"690","Independence Square Park","Pettah Market",0.037037037037037
+"691","Independence Square Park","Royal Botanical Gardens",0.037037037037037
+"692","Independence Square Park","Townhall - Colombo",0.037037037037037
+"693","Independence Square Park","Vihara Maha Devi Park",0.0740740740740741
+"694","Isurumuni Viharaya","Dabulla Cave Temple",0.027027027027027
+"695","Isurumuni Viharaya","Eth Pokuna",0.027027027027027
+"696","Isurumuni Viharaya","Jethawanaramaya",0.027027027027027
+"697","Isurumuni Viharaya","Koneshwaram Temple - Trinomalee",0.027027027027027
+"698","Isurumuni Viharaya","Kuttam Pokuna",0.0540540540540541
+"699","Isurumuni Viharaya","Mihintale",0.0540540540540541
+"700","Isurumuni Viharaya","Mirisavatiya",0.162162162162162
+"701","Isurumuni Viharaya","Nallur Kandaswamy Temple",0.027027027027027
+"702","Isurumuni Viharaya","Samadhi Buddha Statue",0.0540540540540541
+"703","Isurumuni Viharaya","Sigirya",0.108108108108108
+"704","Isurumuni Viharaya","Sri Maha Bodiya, Ruwanwelisaya",0.27027027027027
+"705","Isurumuni Viharaya","Thuparamaya",0.0540540540540541
+"706","Isurumuni Viharaya","Vatadage",0.027027027027027
+"707","Isurumuni Viharaya","Vessagiriya",0.0540540540540541
+"708","Isurumuni Viharaya","Yala National Park",0.027027027027027
+"709","Jaffna Dutch Port","Maruthanarmadam Aanjaneyar Kovil",0.2
+"710","Jaffna Dutch Port","Nagapooshani Amman Kovil",0.2
+"711","Jaffna Dutch Port","Nallur Kandaswamy Temple",0.4
+"712","Jaffna Dutch Port","St. Sebastian Church",0.2
+"713","Jaffna Public Libraray","Jaffna Dutch Port",0.666666666666667
+"714","Jaffna Public Libraray","Jethawanaramaya",0.333333333333333
+"715","Japanese Peace Pagoda Rumassala","Brief Garden by Bevis Bawa",0.125
+"716","Japanese Peace Pagoda Rumassala","Galle Fort",0.125
+"717","Japanese Peace Pagoda Rumassala","Jungle Beach",0.5
+"718","Japanese Peace Pagoda Rumassala","Unawatuna Beach",0.125
+"719","Japanese Peace Pagoda Rumassala","Weligama Beach",0.125
+"720","Jethawanaramaya","Abayagiriya",0.0227272727272727
+"721","Jethawanaramaya","Aukana",0.0454545454545455
+"722","Jethawanaramaya","Basawakkulama Wewa",0.0227272727272727
+"723","Jethawanaramaya","Eth Pokuna",0.0227272727272727
+"724","Jethawanaramaya","Galle Fort",0.0454545454545455
+"725","Jethawanaramaya","Isurumuni Viharaya",0.0909090909090909
+"726","Jethawanaramaya","King Vijayabahu Palace",0.0227272727272727
+"727","Jethawanaramaya","Koneshwaram Temple - Trinomalee",0.0227272727272727
+"728","Jethawanaramaya","Kuttam Pokuna",0.181818181818182
+"729","Jethawanaramaya","Mahasena's Palace, Rathna Prasad",0.0227272727272727
+"730","Jethawanaramaya","Mihintale",0.0681818181818182
+"731","Jethawanaramaya","Mirisavatiya",0.0227272727272727
+"732","Jethawanaramaya","Nallur Kandaswamy Temple",0.0227272727272727
+"733","Jethawanaramaya","Samadhi Buddha Statue",0.0227272727272727
+"734","Jethawanaramaya","Sigirya",0.0227272727272727
+"735","Jethawanaramaya","Sri Maha Bodiya, Ruwanwelisaya",0.227272727272727
+"736","Jethawanaramaya","Stilt Fishing, Kabalana",0.0227272727272727
+"737","Jethawanaramaya","Thuparamaya",0.0454545454545455
+"738","Jethawanaramaya","Vatadage",0.0227272727272727
+"739","Jethawanaramaya","Yapahuwa Rock Fortress",0.0227272727272727
+"740","Jungle Beach","Dewata Beach, Surfing",0.125
+"741","Jungle Beach","Fort - Colombo",0.125
+"742","Jungle Beach","Galle Fort",0.25
+"743","Jungle Beach","Pinnawala Elephant Orphanage",0.125
+"744","Jungle Beach","Unawatuna Beach",0.125
+"745","Jungle Beach","Weligama Beach",0.25
+"746","Kadugannawa Railway Museum","Captain Dawson Tower",0.2
+"747","Kadugannawa Railway Museum","Glenloch Tea Factory",0.2
+"748","Kadugannawa Railway Museum","Royal Botanical Gardens",0.2
+"749","Kadugannawa Railway Museum","Tawalantenne ViewPoint",0.2
+"750","Kadugannawa Railway Museum","Temple of Tooth Relic",0.2
+"751","Kadugannawa Rock View","Bandaranayaka International Airport",0.142857142857143
+"752","Kadugannawa Rock View","Kadugannawa Railway Museum",0.142857142857143
+"753","Kadugannawa Rock View","Kelaniya Raja Maha Viharaya",0.142857142857143
+"754","Kadugannawa Rock View","Pinnawala Elephant Orphanage",0.428571428571429
+"755","Kadugannawa Rock View","Temple of Tooth Relic",0.142857142857143
+"756","Kalutara Temple","Independence Square Park",0.333333333333333
+"757","Kalutara Temple","Negambo Beach Park",0.333333333333333
+"758","Kalutara Temple","Sacred City of Kataragama",0.333333333333333
+"759","Kandalama Reservoir","Archaelogical Museum",0.0454545454545455
+"760","Kandalama Reservoir","Aukana",0.0454545454545455
+"761","Kandalama Reservoir","Dabulla Cave Temple",0.136363636363636
+"762","Kandalama Reservoir","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena",0.0454545454545455
+"763","Kandalama Reservoir","Galle Fort",0.0454545454545455
+"764","Kandalama Reservoir","Giritale Statue of Lord Buddha",0.0454545454545455
+"765","Kandalama Reservoir","Negambo Beach Park",0.0454545454545455
+"766","Kandalama Reservoir","Pigeon Island - Matara",0.0454545454545455
+"767","Kandalama Reservoir","Pinnawala Elephant Orphanage",0.0454545454545455
+"768","Kandalama Reservoir","Rawana Waterfalls",0.0454545454545455
+"769","Kandalama Reservoir","Royal Botanical Gardens",0.0909090909090909
+"770","Kandalama Reservoir","Sigirya",0.227272727272727
+"771","Kandalama Reservoir","Sri Muththumari Amman Kovil",0.0454545454545455
+"772","Kandalama Reservoir","Temple of Tooth Relic",0.0909090909090909
+"773","Kande Viharaya Temple","Moragalla Beach",0.142857142857143
+"774","Kande Viharaya Temple","Negambo Fish Market",0.142857142857143
+"775","Kande Viharaya Temple","Pettah Market",0.142857142857143
+"776","Kande Viharaya Temple","Sigirya",0.142857142857143
+"777","Kande Viharaya Temple","Temple of Tooth Relic",0.142857142857143
+"778","Kande Viharaya Temple","Thissa Wewa",0.142857142857143
+"779","Kande Viharaya Temple","Victor Hasselblad Sea Turtle Research And Conservation Centre",0.142857142857143
+"780","Kandy Lake Club","Pabalu Vehera",0.25
+"781","Kandy Lake Club","Royal Botanical Gardens",0.5
+"782","Kandy Lake Club","Temple of Tooth Relic",0.25
+"783","Kaudulla NP","Dabulla Cave Temple",0.666666666666667
+"784","Kaudulla NP","Pettah Market",0.166666666666667
+"785","Kaudulla NP","Sigirya",0.166666666666667
+"786","Keerimalai Naguleswaram Kovil","Isurumuni Viharaya",0.5
+"787","Keerimalai Naguleswaram Kovil","Townhall - Colombo",0.5
+"788","Kelaniya Raja Maha Viharaya","Benthota Ganga/Bridge",0.25
+"789","Kelaniya Raja Maha Viharaya","Medirigiriya Vatadage",0.25
+"790","Kelaniya Raja Maha Viharaya","Pinnawala Elephant Orphanage",0.25
+"791","Kelaniya Raja Maha Viharaya","Sri Maha Bodiya, Ruwanwelisaya",0.25
+"792","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint","Dabulla Cave Temple",0.0238095238095238
+"793","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint","Devinuwara Sri Vishnu Maha Devalaya",0.0119047619047619
+"794","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena",0.0952380952380952
+"795","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint","Hortan Plains NP",0.0119047619047619
+"796","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint","Maha Parakkrambahu Statue",0.0238095238095238
+"797","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint","Medirigiriya Vatadage",0.0119047619047619
+"798","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint","Minneriya NP",0.0119047619047619
+"799","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint","Mirissa Beach",0.0119047619047619
+"800","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint","Pidurangala",0.0119047619047619
+"801","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint","Pinnawala Elephant Orphanage",0.0119047619047619
+"802","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint","Rankoth Vehera",0.0595238095238095
+"803","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint","Sigirya",0.0357142857142857
+"804","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint","Siva Devale No. 02",0.0119047619047619
+"805","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint","Temple of Tooth Relic",0.0238095238095238
+"806","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint","Vatadage",0.642857142857143
+"807","King Vijayabahu Palace","Kuttam Pokuna",0.5
+"808","King Vijayabahu Palace","Mihintale",0.25
+"809","King Vijayabahu Palace","Thuparamaya",0.25
+"810","Kithulgala White Water rafting","Adam's Peak",0.125
+"811","Kithulgala White Water rafting","Hortan Plains NP",0.125
+"812","Kithulgala White Water rafting","Moragalla Beach",0.125
+"813","Kithulgala White Water rafting","Sacred City of Kataragama",0.125
+"814","Kithulgala White Water rafting","Sinharaja FR",0.25
+"815","Kithulgala White Water rafting","Tawalantenne ViewPoint",0.125
+"816","Kithulgala White Water rafting","Udawalawa NP",0.125
+"817","Koddhuwa Temple","Ahungalla Beach",0.333333333333333
+"818","Koddhuwa Temple","Galle Fort",0.333333333333333
+"819","Koddhuwa Temple","Ramboda Falls",0.333333333333333
+"820","Koggala Beach","Bandaranayaka International Airport",0.1
+"821","Koggala Beach","Galle Face Green",0.1
+"822","Koggala Beach","Galle Fort",0.4
+"823","Koggala Beach","Pinnawala Elephant Orphanage",0.1
+"824","Koggala Beach","Udawalawa NP",0.1
+"825","Koggala Beach","Unawatuna Beach",0.1
+"826","Koggala Beach","Unawatuna Diving",0.1
+"827","Koneshwaram Temple - Trinomalee","Beach - Mt. Lavinia",0.0625
+"828","Koneshwaram Temple - Trinomalee","Dabulla Cave Temple",0.125
+"829","Koneshwaram Temple - Trinomalee","Dutch Bay Beach",0.25
+"830","Koneshwaram Temple - Trinomalee","Galle Face Green",0.0625
+"831","Koneshwaram Temple - Trinomalee","Galle Fort",0.0625
+"832","Koneshwaram Temple - Trinomalee","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint",0.0625
+"833","Koneshwaram Temple - Trinomalee","Nilaveli Beach",0.0625
+"834","Koneshwaram Temple - Trinomalee","Shri Badrakali Amman Hindu Temple",0.0625
+"835","Koneshwaram Temple - Trinomalee","Uppuveli Beach",0.1875
+"836","Koneshwaram Temple - Trinomalee","Vatadage",0.0625
+"837","Kuttam Pokuna","Abayagiriya",0.103448275862069
+"838","Kuttam Pokuna","Aukana",0.0344827586206897
+"839","Kuttam Pokuna","Dabulla Cave Temple",0.0344827586206897
+"840","Kuttam Pokuna","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena",0.0344827586206897
+"841","Kuttam Pokuna","Hasalaka Gamini War Memorial",0.0344827586206897
+"842","Kuttam Pokuna","Jethawanaramaya",0.172413793103448
+"843","Kuttam Pokuna","Kandalama Reservoir",0.0344827586206897
+"844","Kuttam Pokuna","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint",0.0344827586206897
+"845","Kuttam Pokuna","Mihintale",0.103448275862069
+"846","Kuttam Pokuna","Rankoth Vehera",0.0344827586206897
+"847","Kuttam Pokuna","Samadhi Buddha Statue",0.310344827586207
+"848","Kuttam Pokuna","Sri Maha Bodiya, Ruwanwelisaya",0.0344827586206897
+"849","Kuttam Pokuna","Yala National Park",0.0344827586206897
+"850","Labookellie Tea Factory","Adam's Peak",0.0666666666666667
+"851","Labookellie Tea Factory","Ella Town",0.0333333333333333
+"852","Labookellie Tea Factory","Goyambokka Beach",0.0333333333333333
+"853","Labookellie Tea Factory","Hortan Plains NP",0.133333333333333
+"854","Labookellie Tea Factory","Lake Gregory",0.1
+"855","Labookellie Tea Factory","Little Adam's Peak Trailhead-Ella",0.0666666666666667
+"856","Labookellie Tea Factory","Mirissa Beach",0.0666666666666667
+"857","Labookellie Tea Factory","Pettah Market",0.0333333333333333
+"858","Labookellie Tea Factory","Ramboda Falls",0.0333333333333333
+"859","Labookellie Tea Factory","Rawana Waterfalls",0.0333333333333333
+"860","Labookellie Tea Factory","Royal Botanical Gardens",0.1
+"861","Labookellie Tea Factory","St. Clairs Falls",0.0333333333333333
+"862","Labookellie Tea Factory","Tawalantenne ViewPoint",0.0333333333333333
+"863","Labookellie Tea Factory","Temple of Tooth Relic",0.133333333333333
+"864","Labookellie Tea Factory","Unawatuna Beach",0.0333333333333333
+"865","Labookellie Tea Factory","Victor Hasselblad Sea Turtle Research And Conservation Centre",0.0333333333333333
+"866","Labookellie Tea Factory","Yala National Park",0.0333333333333333
+"867","Lake Gregory","Ella Town",0.1
+"868","Lake Gregory","Galle Fort",0.05
+"869","Lake Gregory","Hortan Plains NP",0.15
+"870","Lake Gregory","Lipton's Seat",0.05
+"871","Lake Gregory","Little Adam's Peak Trailhead-Ella",0.1
+"872","Lake Gregory","Nine Arch Bridge",0.05
+"873","Lake Gregory","Pedro Tea Estate",0.05
+"874","Lake Gregory","Rawana Waterfalls",0.05
+"875","Lake Gregory","Seetha Amman Kovil",0.15
+"876","Lake Gregory","Sigirya",0.05
+"877","Lake Gregory","Tawalantenne ViewPoint",0.1
+"878","Lake Gregory","Victoria Park",0.05
+"879","Lake Gregory","Weligama Beach",0.05
+"880","Lanka Tilaka Raja Maha Viharaya","Abayagiriya",0.1
+"881","Lanka Tilaka Raja Maha Viharaya","Embekka Dewalaya",0.2
+"882","Lanka Tilaka Raja Maha Viharaya","Gadaladeniya Temple",0.1
+"883","Lanka Tilaka Raja Maha Viharaya","Royal Botanical Gardens",0.1
+"884","Lanka Tilaka Raja Maha Viharaya","Sri Muththumari Amman Kovil",0.1
+"885","Lanka Tilaka Raja Maha Viharaya","Tawalantenne ViewPoint",0.1
+"886","Lanka Tilaka Raja Maha Viharaya","Temple of Tooth Relic",0.3
+"887","Lankaramaya","Eth Pokuna",0.111111111111111
+"888","Lankaramaya","King Vijayabahu Palace",0.111111111111111
+"889","Lankaramaya","Mahasena's Palace, Rathna Prasad",0.111111111111111
+"890","Lankaramaya","Mihintale",0.111111111111111
+"891","Lankaramaya","Thuparamaya",0.333333333333333
+"892","Lankaramaya","Vatadage",0.222222222222222
+"893","Lipton's Seat","Dabatenna Tea Factory",0.222222222222222
+"894","Lipton's Seat","Dewata Beach, Surfing",0.111111111111111
+"895","Lipton's Seat","Little Adam's Peak Trailhead-Ella",0.222222222222222
+"896","Lipton's Seat","Nine Arch Bridge",0.111111111111111
+"897","Lipton's Seat","Rawana Waterfalls",0.111111111111111
+"898","Lipton's Seat","Royal Botanical Gardens",0.111111111111111
+"899","Lipton's Seat","Temple of Tooth Relic",0.111111111111111
+"900","Little Adam's Peak Trailhead-Ella","Buduruwagala Rock Carvings",0.0408163265306122
+"901","Little Adam's Peak Trailhead-Ella","Dabatenna Tea Factory",0.0204081632653061
+"902","Little Adam's Peak Trailhead-Ella","Dowa Rock Temple",0.0408163265306122
+"903","Little Adam's Peak Trailhead-Ella","Ella Rock",0.0204081632653061
+"904","Little Adam's Peak Trailhead-Ella","Ella Town",0.142857142857143
+"905","Little Adam's Peak Trailhead-Ella","Galle Fort",0.0204081632653061
+"906","Little Adam's Peak Trailhead-Ella","Hiriketiya Beach",0.0204081632653061
+"907","Little Adam's Peak Trailhead-Ella","Kande Viharaya Temple",0.0204081632653061
+"908","Little Adam's Peak Trailhead-Ella","Labookellie Tea Factory",0.0204081632653061
+"909","Little Adam's Peak Trailhead-Ella","Lipton's Seat",0.0204081632653061
+"910","Little Adam's Peak Trailhead-Ella","Mulkirigala Rajamahaa Viharaya",0.0204081632653061
+"911","Little Adam's Peak Trailhead-Ella","Nine Arch Bridge",0.224489795918367
+"912","Little Adam's Peak Trailhead-Ella","Ramboda Falls",0.0612244897959184
+"913","Little Adam's Peak Trailhead-Ella","Rawana Waterfalls",0.122448979591837
+"914","Little Adam's Peak Trailhead-Ella","Sacred City of Kataragama",0.0204081632653061
+"915","Little Adam's Peak Trailhead-Ella","Seetha Amman Kovil",0.0204081632653061
+"916","Little Adam's Peak Trailhead-Ella","Stilt Fishing, Koggala",0.0204081632653061
+"917","Little Adam's Peak Trailhead-Ella","Udawalawa NP",0.0204081632653061
+"918","Little Adam's Peak Trailhead-Ella","Uwa Halpewatta Tea Factory",0.0204081632653061
+"919","Little Adam's Peak Trailhead-Ella","Weligama Beach",0.0408163265306122
+"920","Little Adam's Peak Trailhead-Ella","Yala National Park",0.0408163265306122
+"921","Little Adam's Peak Trailhead-Ella","Yatala Vehera",0.0204081632653061
+"922","Lotus Pond","Beach - Mt. Lavinia",0.0714285714285714
+"923","Lotus Pond","Ella Town",0.0714285714285714
+"924","Lotus Pond","Kandalama Reservoir",0.0714285714285714
+"925","Lotus Pond","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint",0.0714285714285714
+"926","Lotus Pond","Maha Parakkrambahu Statue",0.0714285714285714
+"927","Lotus Pond","Minneriya NP",0.0714285714285714
+"928","Lotus Pond","Pedro Tea Estate",0.0714285714285714
+"929","Lotus Pond","Sigirya",0.142857142857143
+"930","Lotus Pond","Tivanka Pilimage",0.357142857142857
+"931","Lover's Leap Falls","Lake Gregory",0.25
+"932","Lover's Leap Falls","Mulkirigala Rajamahaa Viharaya",0.25
+"933","Lover's Leap Falls","Pinnawala Elephant Orphanage",0.25
+"934","Lover's Leap Falls","Victoria Park",0.25
+"935","Lunuganga Country Estate","Beach - Mt. Lavinia",0.333333333333333
+"936","Lunuganga Country Estate","Weligama Beach",0.666666666666667
+"937","Madampai Murugan Temple","Isurumuni Viharaya",0.25
+"938","Madampai Murugan Temple","Jethawanaramaya",0.25
+"939","Madampai Murugan Temple","Mihintale",0.25
+"940","Madampai Murugan Temple","Sri Munnessarama Devalaya",0.25
+"941","Madu Ganga","Beach - Mt. Lavinia",0.125
+"942","Madu Ganga","Galle Fort",0.25
+"943","Madu Ganga","Hikkaduwa Beach",0.125
+"944","Madu Ganga","Kalutara Temple",0.125
+"945","Madu Ganga","Koddhuwa Temple",0.125
+"946","Madu Ganga","Sive Subramaniya Kovil Slave Island",0.125
+"947","Madu Ganga","Tsunami Honganji Viharaya",0.125
+"948","Maha Parakkrambahu Statue","Dabulla Cave Temple",0.0769230769230769
+"949","Maha Parakkrambahu Statue","Isurumuni Viharaya",0.0769230769230769
+"950","Maha Parakkrambahu Statue","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint",0.153846153846154
+"951","Maha Parakkrambahu Statue","Potugal Viharaya",0.538461538461538
+"952","Maha Parakkrambahu Statue","Vatadage",0.153846153846154
+"953","Mahasena's Palace, Rathna Prasad","Abayagiriya",0.121212121212121
+"954","Mahasena's Palace, Rathna Prasad","Dabulla Cave Temple",0.0303030303030303
+"955","Mahasena's Palace, Rathna Prasad","Eth Pokuna",0.212121212121212
+"956","Mahasena's Palace, Rathna Prasad","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena",0.0303030303030303
+"957","Mahasena's Palace, Rathna Prasad","Isurumuni Viharaya",0.0303030303030303
+"958","Mahasena's Palace, Rathna Prasad","Jethawanaramaya",0.0303030303030303
+"959","Mahasena's Palace, Rathna Prasad","Koneshwaram Temple - Trinomalee",0.0606060606060606
+"960","Mahasena's Palace, Rathna Prasad","Kuttam Pokuna",0.0909090909090909
+"961","Mahasena's Palace, Rathna Prasad","Lankaramaya",0.0606060606060606
+"962","Mahasena's Palace, Rathna Prasad","Mihintale",0.0303030303030303
+"963","Mahasena's Palace, Rathna Prasad","Nallur Kandaswamy Temple",0.0303030303030303
+"964","Mahasena's Palace, Rathna Prasad","Samadhi Buddha Statue",0.0606060606060606
+"965","Mahasena's Palace, Rathna Prasad","Sigirya",0.0303030303030303
+"966","Mahasena's Palace, Rathna Prasad","Sri Maha Bodiya, Ruwanwelisaya",0.0303030303030303
+"967","Mahasena's Palace, Rathna Prasad","Thuparamaya",0.121212121212121
+"968","Mahasena's Palace, Rathna Prasad","Weligama Beach",0.0303030303030303
+"969","Main Surfing Point Hikkaduwa","Galle Fort",0.4
+"970","Main Surfing Point Hikkaduwa","Mirissa Beach",0.2
+"971","Main Surfing Point Hikkaduwa","National Museum of Colombo",0.2
+"972","Main Surfing Point Hikkaduwa","Temple of Tooth Relic",0.2
+"973","Maruthanarmadam Aanjaneyar Kovil","Keerimalai Naguleswaram Kovil",0.5
+"974","Maruthanarmadam Aanjaneyar Kovil","Nagadeepa Viharaya",0.5
+"975","Matara Beach","Pigeon Island - Matara",0.333333333333333
+"976","Matara Beach","Star Fort Matara",0.333333333333333
+"977","Matara Beach","Weligama Beach",0.333333333333333
+"978","Medirigiriya Vatadage","Sigirya",1
+"979","Menik Viharaya","Giritale Statue of Lord Buddha",0.25
+"980","Menik Viharaya","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint",0.25
+"981","Menik Viharaya","Rankoth Vehera",0.5
+"982","Mihintale","Aukana",0.0476190476190476
+"983","Mihintale","Basawakkulama Wewa",0.0238095238095238
+"984","Mihintale","Dabulla Cave Temple",0.0952380952380952
+"985","Mihintale","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena",0.0476190476190476
+"986","Mihintale","Giritale Statue of Lord Buddha",0.0476190476190476
+"987","Mihintale","Isurumuni Viharaya",0.0476190476190476
+"988","Mihintale","Jethawanaramaya",0.0476190476190476
+"989","Mihintale","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint",0.0952380952380952
+"990","Mihintale","Maha Parakkrambahu Statue",0.0476190476190476
+"991","Mihintale","Nagapooshani Amman Kovil",0.0238095238095238
+"992","Mihintale","Nallur Kandaswamy Temple",0.0476190476190476
+"993","Mihintale","Pinnawala Elephant Orphanage",0.0238095238095238
+"994","Mihintale","Sigirya",0.0714285714285714
+"995","Mihintale","Sri Maha Bodiya, Ruwanwelisaya",0.214285714285714
+"996","Mihintale","Sri Muththumari Amman Kovil",0.0238095238095238
+"997","Mihintale","Stilt Fishing, Koggala",0.0238095238095238
+"998","Mihintale","Temple of Tooth Relic",0.0238095238095238
+"999","Mihintale","Vessagiriya",0.0238095238095238
+"1000","Mihintale","Wilpattu NP",0.0238095238095238
+"1001","Millenium Elephant Foundation","Pinnawala Elephant Orphanage",0.4
+"1002","Millenium Elephant Foundation","Sigirya",0.6
+"1003","Minneriya NP","Dabulla Cave Temple",0.2
+"1004","Minneriya NP","Galle Fort",0.2
+"1005","Minneriya NP","Sigirya",0.4
+"1006","Minneriya NP","Temple of Tooth Relic",0.2
+"1007","Mirisavatiya","Archaelogical Museum",0.105263157894737
+"1008","Mirisavatiya","Basawakkulama Wewa",0.0526315789473684
+"1009","Mirisavatiya","Dabulla Cave Temple",0.0526315789473684
+"1010","Mirisavatiya","Giritale Statue of Lord Buddha",0.0526315789473684
+"1011","Mirisavatiya","Isurumuni Viharaya",0.0526315789473684
+"1012","Mirisavatiya","Jethawanaramaya",0.0526315789473684
+"1013","Mirisavatiya","Sigirya",0.0526315789473684
+"1014","Mirisavatiya","Sri Maha Bodiya, Ruwanwelisaya",0.473684210526316
+"1015","Mirisavatiya","Tawalantenne ViewPoint",0.0526315789473684
+"1016","Mirisavatiya","Thuparamaya",0.0526315789473684
+"1017","Mirissa Beach","Adam's Peak",0.0363636363636364
+"1018","Mirissa Beach","Bahirawakanda Temple",0.0181818181818182
+"1019","Mirissa Beach","Coconut Tree Hill",0.0545454545454545
+"1020","Mirissa Beach","Dalawella Beach",0.0181818181818182
+"1021","Mirissa Beach","Dewata Beach, Surfing",0.0363636363636364
+"1022","Mirissa Beach","Galle Fort",0.254545454545455
+"1023","Mirissa Beach","Hortan Plains NP",0.0181818181818182
+"1024","Mirissa Beach","Mihintale",0.0181818181818182
+"1025","Mirissa Beach","Mulkirigala Rajamahaa Viharaya",0.0181818181818182
+"1026","Mirissa Beach","Polhena Beach",0.0181818181818182
+"1027","Mirissa Beach","Stilt Fishing, Kabalana",0.0181818181818182
+"1028","Mirissa Beach","Stilt Fishing, Midigama",0.0181818181818182
+"1029","Mirissa Beach","Tangalle Beach",0.0363636363636364
+"1030","Mirissa Beach","Taprobane Island",0.0181818181818182
+"1031","Mirissa Beach","Turtle Beach",0.0181818181818182
+"1032","Mirissa Beach","Unawatuna Beach",0.0181818181818182
+"1033","Mirissa Beach","Unawatuna Diving",0.0181818181818182
+"1034","Mirissa Beach","Weligama Beach",0.345454545454545
+"1035","Mirissa Beach","Yala National Park",0.0181818181818182
+"1036","Moragalla Beach","Barberyn Island/Beruwala Light House",0.2
+"1037","Moragalla Beach","BMICH",0.1
+"1038","Moragalla Beach","Galle Fort",0.3
+"1039","Moragalla Beach","Gangaramaya Temple, Seemama Malaka Temple, PSM",0.1
+"1040","Moragalla Beach","Kande Viharaya Temple",0.2
+"1041","Moragalla Beach","Wewurukannala Buduraja Maha Viharaya",0.1
+"1042","Mulkirigala Rajamahaa Viharaya","Galle Fort",0.166666666666667
+"1043","Mulkirigala Rajamahaa Viharaya","Mirissa Beach",0.166666666666667
+"1044","Mulkirigala Rajamahaa Viharaya","Pigeon Island - Matara",0.166666666666667
+"1045","Mulkirigala Rajamahaa Viharaya","Sacred City of Kataragama",0.166666666666667
+"1046","Mulkirigala Rajamahaa Viharaya","Tangalle Beach",0.166666666666667
+"1047","Mulkirigala Rajamahaa Viharaya","Weherahena Poorwarama Rajamaha Viharaya",0.166666666666667
+"1048","Nagadeepa Viharaya","Aukana",0.333333333333333
+"1049","Nagadeepa Viharaya","Nagapooshani Amman Kovil",0.666666666666667
+"1050","Nagapooshani Amman Kovil","Dutch Bay Beach",0.285714285714286
+"1051","Nagapooshani Amman Kovil","Keerimalai Naguleswaram Kovil",0.142857142857143
+"1052","Nagapooshani Amman Kovil","Kuttam Pokuna",0.142857142857143
+"1053","Nagapooshani Amman Kovil","Nagadeepa Viharaya",0.142857142857143
+"1054","Nagapooshani Amman Kovil","Nallur Kandaswamy Temple",0.142857142857143
+"1055","Nagapooshani Amman Kovil","Uppuveli Beach",0.142857142857143
+"1056","Nalanda Gedige","Dabulla Cave Temple",0.285714285714286
+"1057","Nalanda Gedige","Isurumuni Viharaya",0.142857142857143
+"1058","Nalanda Gedige","Sri Muththumari Amman Kovil",0.428571428571429
+"1059","Nalanda Gedige","Temple of Tooth Relic",0.142857142857143
+"1060","Nallur Kandaswamy Temple","Dutch Bay Beach",0.1
+"1061","Nallur Kandaswamy Temple","Jaffna Dutch Port",0.2
+"1062","Nallur Kandaswamy Temple","Maruthanarmadam Aanjaneyar Kovil",0.1
+"1063","Nallur Kandaswamy Temple","Nagadeepa Viharaya",0.1
+"1064","Nallur Kandaswamy Temple","Nagapooshani Amman Kovil",0.2
+"1065","Nallur Kandaswamy Temple","Negambo Fish Market",0.1
+"1066","Nallur Kandaswamy Temple","Sigirya",0.1
+"1067","Nallur Kandaswamy Temple","Sri Maha Bodiya, Ruwanwelisaya",0.1
+"1068","Narigama Beach","Galle Fort",0.666666666666667
+"1069","Narigama Beach","Hikkaduwa Beach",0.333333333333333
+"1070","National Museum of Colombo","Beach - Mt. Lavinia",0.0666666666666667
+"1071","National Museum of Colombo","Fort - Colombo",0.2
+"1072","National Museum of Colombo","Galle Face Green",0.0666666666666667
+"1073","National Museum of Colombo","Galle Fort",0.0666666666666667
+"1074","National Museum of Colombo","Gangaramaya Temple, Seemama Malaka Temple, PSM",0.0666666666666667
+"1075","National Museum of Colombo","Green Path Colombo",0.0666666666666667
+"1076","National Museum of Colombo","Independence Square Park",0.133333333333333
+"1077","National Museum of Colombo","Nelum Pokuna Theatre",0.0666666666666667
+"1078","National Museum of Colombo","Pettah Market",0.0666666666666667
+"1079","National Museum of Colombo","Sri Sambodhi Viharaya/Vipassana Meditation Center",0.0666666666666667
+"1080","National Museum of Colombo","Victoria Park",0.0666666666666667
+"1081","National Museum of Colombo","Vihara Maha Devi Park",0.0666666666666667
+"1082","National Zoological Garden","Galle Face Green",0.333333333333333
+"1083","National Zoological Garden","Galle Fort",0.333333333333333
+"1084","National Zoological Garden","Negambo Lagoon",0.333333333333333
+"1085","Negambo Beach Park","Abayagiriya",0.0227272727272727
+"1086","Negambo Beach Park","Adam's Peak",0.0227272727272727
+"1087","Negambo Beach Park","Beach - Mt. Lavinia",0.0227272727272727
+"1088","Negambo Beach Park","Dabulla Cave Temple",0.0454545454545455
+"1089","Negambo Beach Park","Galle Fort",0.0227272727272727
+"1090","Negambo Beach Park","Hortan Plains NP",0.0227272727272727
+"1091","Negambo Beach Park","Independence Square Park",0.0227272727272727
+"1092","Negambo Beach Park","Isurumuni Viharaya",0.0227272727272727
+"1093","Negambo Beach Park","Jethawanaramaya",0.0227272727272727
+"1094","Negambo Beach Park","Kandalama Reservoir",0.0454545454545455
+"1095","Negambo Beach Park","Lake Gregory",0.0227272727272727
+"1096","Negambo Beach Park","Madampai Murugan Temple",0.0227272727272727
+"1097","Negambo Beach Park","Mirisavatiya",0.0227272727272727
+"1098","Negambo Beach Park","Mirissa Beach",0.0227272727272727
+"1099","Negambo Beach Park","Negambo Fish Market",0.0909090909090909
+"1100","Negambo Beach Park","Negambo Lagoon",0.0681818181818182
+"1101","Negambo Beach Park","Pettah Market",0.0227272727272727
+"1102","Negambo Beach Park","Pinnawala Elephant Orphanage",0.0909090909090909
+"1103","Negambo Beach Park","Ramboda Falls",0.0227272727272727
+"1104","Negambo Beach Park","Royal Botanical Gardens",0.0227272727272727
+"1105","Negambo Beach Park","Sacred City of Kataragama",0.0227272727272727
+"1106","Negambo Beach Park","Sigirya",0.113636363636364
+"1107","Negambo Beach Park","Sri Muthumari Amman Kovil, Sri Sitthi Vineyagar Temple",0.0227272727272727
+"1108","Negambo Beach Park","St. Mary's Church Grand Street",0.0227272727272727
+"1109","Negambo Beach Park","St. Sebastian Church",0.0681818181818182
+"1110","Negambo Beach Park","Temple of Tooth Relic",0.0227272727272727
+"1111","Negambo Beach Park","Uppuveli Beach",0.0227272727272727
+"1112","Negambo Beach Park","Wilpattu NP",0.0227272727272727
+"1113","Negambo Fish Market","Bandaranayaka International Airport",0.0204081632653061
+"1114","Negambo Fish Market","Dabulla Cave Temple",0.0204081632653061
+"1115","Negambo Fish Market","Galle Fort",0.0204081632653061
+"1116","Negambo Fish Market","Lake Gregory",0.0204081632653061
+"1117","Negambo Fish Market","Madampai Murugan Temple",0.0204081632653061
+"1118","Negambo Fish Market","Millenium Elephant Foundation",0.0204081632653061
+"1119","Negambo Fish Market","Mirissa Beach",0.0204081632653061
+"1120","Negambo Fish Market","Negambo Beach Park",0.142857142857143
+"1121","Negambo Fish Market","Negambo Lagoon",0.26530612244898
+"1122","Negambo Fish Market","Pettah Market",0.0204081632653061
+"1123","Negambo Fish Market","Pinnawala Elephant Orphanage",0.0408163265306122
+"1124","Negambo Fish Market","Rankoth Vehera",0.0204081632653061
+"1125","Negambo Fish Market","Royal Botanical Gardens",0.0204081632653061
+"1126","Negambo Fish Market","Sigirya",0.0816326530612245
+"1127","Negambo Fish Market","Sri Maha Bodiya, Ruwanwelisaya",0.0612244897959184
+"1128","Negambo Fish Market","Sri Munnessarama Devalaya",0.0204081632653061
+"1129","Negambo Fish Market","Sri Muthumari Amman Kovil, Sri Sitthi Vineyagar Temple",0.0204081632653061
+"1130","Negambo Fish Market","Temple of Tooth Relic",0.0816326530612245
+"1131","Negambo Fish Market","Thuparamaya",0.0408163265306122
+"1132","Negambo Fish Market","Wilpattu NP",0.0204081632653061
+"1133","Negambo Fish Market","Wolvendaal Church",0.0204081632653061
+"1134","Negambo Lagoon","Archaelogical Museum",0.0277777777777778
+"1135","Negambo Lagoon","Bandaranayaka International Airport",0.0277777777777778
+"1136","Negambo Lagoon","Dabulla Cave Temple",0.0277777777777778
+"1137","Negambo Lagoon","Galle Fort",0.0833333333333333
+"1138","Negambo Lagoon","Hamilton Canal",0.0555555555555556
+"1139","Negambo Lagoon","Jethawanaramaya",0.0277777777777778
+"1140","Negambo Lagoon","Koddhuwa Temple",0.0277777777777778
+"1141","Negambo Lagoon","Millenium Elephant Foundation",0.0277777777777778
+"1142","Negambo Lagoon","National Zoological Garden",0.0277777777777778
+"1143","Negambo Lagoon","Negambo Beach Park",0.0833333333333333
+"1144","Negambo Lagoon","Negambo Fish Market",0.25
+"1145","Negambo Lagoon","Pinnawala Elephant Orphanage",0.0833333333333333
+"1146","Negambo Lagoon","Sigirya",0.0277777777777778
+"1147","Negambo Lagoon","Sri Maha Bodiya, Ruwanwelisaya",0.0277777777777778
+"1148","Negambo Lagoon","Sri Muthumari Amman Kovil, Sri Sitthi Vineyagar Temple",0.0277777777777778
+"1149","Negambo Lagoon","St. Mary's Church Grand Street",0.0555555555555556
+"1150","Negambo Lagoon","St. Sebastian Church",0.0277777777777778
+"1151","Negambo Lagoon","Temple of Tooth Relic",0.0833333333333333
+"1152","Nelum Pokuna Theatre","Independence Square Park",0.25
+"1153","Nelum Pokuna Theatre","National Museum of Colombo",0.25
+"1154","Nelum Pokuna Theatre","Vihara Maha Devi Park",0.5
+"1155","Nilaveli Beach","Dabulla Cave Temple",0.333333333333333
+"1156","Nilaveli Beach","Koneshwaram Temple - Trinomalee",0.666666666666667
+"1157","Nine Arch Bridge","Adam's Peak",0.0303030303030303
+"1158","Nine Arch Bridge","Buduruwagala Rock Carvings",0.0303030303030303
+"1159","Nine Arch Bridge","Ella Town",0.151515151515152
+"1160","Nine Arch Bridge","Galle Fort",0.0606060606060606
+"1161","Nine Arch Bridge","Lipton's Seat",0.0303030303030303
+"1162","Nine Arch Bridge","Little Adam's Peak Trailhead-Ella",0.181818181818182
+"1163","Nine Arch Bridge","Lover's Leap Falls",0.0303030303030303
+"1164","Nine Arch Bridge","Pinnawala Elephant Orphanage",0.0303030303030303
+"1165","Nine Arch Bridge","Rawana Waterfalls",0.0909090909090909
+"1166","Nine Arch Bridge","Sacred City of Kataragama",0.0303030303030303
+"1167","Nine Arch Bridge","Tangalle Beach",0.0303030303030303
+"1168","Nine Arch Bridge","Temple of Tooth Relic",0.0303030303030303
+"1169","Nine Arch Bridge","Udawalawa NP",0.0606060606060606
+"1170","Nine Arch Bridge","Uwa Halpewatta Tea Factory",0.0303030303030303
+"1171","Nine Arch Bridge","Vatadage",0.0303030303030303
+"1172","Nine Arch Bridge","Weligama Beach",0.0606060606060606
+"1173","Nine Arch Bridge","Yala National Park",0.0606060606060606
+"1174","Nine Arch Bridge","Yatala Vehera",0.0303030303030303
+"1175","Pabalu Vehera","Adam's Peak",0.166666666666667
+"1176","Pabalu Vehera","Menik Viharaya",0.166666666666667
+"1177","Pabalu Vehera","Rankoth Vehera",0.5
+"1178","Pabalu Vehera","Sigirya",0.166666666666667
+"1179","Pedro Tea Estate","Ella Town",0.181818181818182
+"1180","Pedro Tea Estate","Galle Fort",0.0909090909090909
+"1181","Pedro Tea Estate","Hortan Plains NP",0.181818181818182
+"1182","Pedro Tea Estate","Little Adam's Peak Trailhead-Ella",0.181818181818182
+"1183","Pedro Tea Estate","Lover's Leap Falls",0.0909090909090909
+"1184","Pedro Tea Estate","Sacred City of Kataragama",0.0909090909090909
+"1185","Pedro Tea Estate","Seetha Amman Kovil",0.0909090909090909
+"1186","Pedro Tea Estate","Victoria Park",0.0909090909090909
+"1187","Peraliya Tsunami Memorial Statue","Barberyn Island/Beruwala Light House",0.5
+"1188","Peraliya Tsunami Memorial Statue","Madu Ganga",0.5
+"1189","Pettah Market","Bandaranayaka International Airport",0.0169491525423729
+"1190","Pettah Market","Dabulla Cave Temple",0.0338983050847458
+"1191","Pettah Market","Fort - Colombo",0.152542372881356
+"1192","Pettah Market","Galle Face Green",0.203389830508475
+"1193","Pettah Market","Galle Fort",0.0677966101694915
+"1194","Pettah Market","Gangaramaya Temple, Seemama Malaka Temple, PSM",0.0677966101694915
+"1195","Pettah Market","Geoffrey bawa House No. 11",0.0169491525423729
+"1196","Pettah Market","Hikkaduwa Beach",0.0169491525423729
+"1197","Pettah Market","Jethawanaramaya",0.0169491525423729
+"1198","Pettah Market","Kandalama Reservoir",0.0169491525423729
+"1199","Pettah Market","Main Surfing Point Hikkaduwa",0.0169491525423729
+"1200","Pettah Market","Nallur Kandaswamy Temple",0.0169491525423729
+"1201","Pettah Market","Negambo Beach Park",0.0338983050847458
+"1202","Pettah Market","Pinnawala Elephant Orphanage",0.0338983050847458
+"1203","Pettah Market","Sigirya",0.0169491525423729
+"1204","Pettah Market","Sive Subramaniya Kovil Slave Island",0.0169491525423729
+"1205","Pettah Market","Sri Munnessarama Devalaya",0.0169491525423729
+"1206","Pettah Market","Temple of Sri Kailawasanthan Swami Devasthanam Kovil",0.0169491525423729
+"1207","Pettah Market","Temple of Tooth Relic",0.101694915254237
+"1208","Pettah Market","Vessagiriya",0.0169491525423729
+"1209","Pettah Market","Vihara Maha Devi Park",0.0338983050847458
+"1210","Pettah Market","Weligama Beach",0.0169491525423729
+"1211","Pettah Market","Wolvendaal Church",0.0508474576271186
+"1212","Pidurangala","Dabulla Cave Temple",0.19047619047619
+"1213","Pidurangala","Galle Fort",0.0952380952380952
+"1214","Pidurangala","Kaudulla NP",0.0476190476190476
+"1215","Pidurangala","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint",0.0952380952380952
+"1216","Pidurangala","Minneriya NP",0.0476190476190476
+"1217","Pidurangala","Pinnawala Elephant Orphanage",0.0476190476190476
+"1218","Pidurangala","Potugal Viharaya",0.0476190476190476
+"1219","Pidurangala","Royal Botanical Gardens",0.0476190476190476
+"1220","Pidurangala","Sigirya",0.142857142857143
+"1221","Pidurangala","Siva Devale No. 02",0.0476190476190476
+"1222","Pidurangala","Temple of Tooth Relic",0.19047619047619
+"1223","Pigeon Island - Matara","Galle Fort",0.25
+"1224","Pigeon Island - Matara","Kalutara Temple",0.0833333333333333
+"1225","Pigeon Island - Matara","Mirissa Beach",0.0833333333333333
+"1226","Pigeon Island - Matara","Star Fort Matara",0.0833333333333333
+"1227","Pigeon Island - Matara","Stilt Fishing, Kabalana",0.0833333333333333
+"1228","Pigeon Island - Matara","Temple of Tooth Relic",0.0833333333333333
+"1229","Pigeon Island - Matara","Weherahena Poorwarama Rajamaha Viharaya",0.0833333333333333
+"1230","Pigeon Island - Matara","Weligama Beach",0.25
+"1231","Pinnawala Elephant Orphanage","Ahungalla Beach",0.010989010989011
+"1232","Pinnawala Elephant Orphanage","Beach - Mt. Lavinia",0.010989010989011
+"1233","Pinnawala Elephant Orphanage","Bluefield Tea Factory",0.010989010989011
+"1234","Pinnawala Elephant Orphanage","BMICH",0.010989010989011
+"1235","Pinnawala Elephant Orphanage","Dabulla Cave Temple",0.0659340659340659
+"1236","Pinnawala Elephant Orphanage","Fort - Colombo",0.010989010989011
+"1237","Pinnawala Elephant Orphanage","Gadaladeniya Temple",0.010989010989011
+"1238","Pinnawala Elephant Orphanage","Galle Fort",0.043956043956044
+"1239","Pinnawala Elephant Orphanage","Gangaramaya Temple, Seemama Malaka Temple, PSM",0.010989010989011
+"1240","Pinnawala Elephant Orphanage","Glenloch Tea Factory",0.010989010989011
+"1241","Pinnawala Elephant Orphanage","Hortan Plains NP",0.010989010989011
+"1242","Pinnawala Elephant Orphanage","Isurumuni Viharaya",0.010989010989011
+"1243","Pinnawala Elephant Orphanage","Jethawanaramaya",0.010989010989011
+"1244","Pinnawala Elephant Orphanage","Kadugannawa Railway Museum",0.010989010989011
+"1245","Pinnawala Elephant Orphanage","Kadugannawa Rock View",0.021978021978022
+"1246","Pinnawala Elephant Orphanage","Kandalama Reservoir",0.010989010989011
+"1247","Pinnawala Elephant Orphanage","Kaudulla NP",0.010989010989011
+"1248","Pinnawala Elephant Orphanage","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint",0.032967032967033
+"1249","Pinnawala Elephant Orphanage","Kithulgala White Water rafting",0.010989010989011
+"1250","Pinnawala Elephant Orphanage","Koddhuwa Temple",0.010989010989011
+"1251","Pinnawala Elephant Orphanage","Lover's Leap Falls",0.010989010989011
+"1252","Pinnawala Elephant Orphanage","Mihintale",0.010989010989011
+"1253","Pinnawala Elephant Orphanage","Moragalla Beach",0.010989010989011
+"1254","Pinnawala Elephant Orphanage","Negambo Beach Park",0.010989010989011
+"1255","Pinnawala Elephant Orphanage","Negambo Lagoon",0.010989010989011
+"1256","Pinnawala Elephant Orphanage","Ramboda Falls",0.021978021978022
+"1257","Pinnawala Elephant Orphanage","Rawana Waterfalls",0.021978021978022
+"1258","Pinnawala Elephant Orphanage","Royal Botanical Gardens",0.10989010989011
+"1259","Pinnawala Elephant Orphanage","Sacred City of Kataragama",0.021978021978022
+"1260","Pinnawala Elephant Orphanage","Sigirya",0.142857142857143
+"1261","Pinnawala Elephant Orphanage","Sive Subramaniya Kovil Slave Island",0.010989010989011
+"1262","Pinnawala Elephant Orphanage","Sri Maha Bodiya, Ruwanwelisaya",0.010989010989011
+"1263","Pinnawala Elephant Orphanage","Tawalantenne ViewPoint",0.032967032967033
+"1264","Pinnawala Elephant Orphanage","Temple of Tooth Relic",0.197802197802198
+"1265","Pinnawala Elephant Orphanage","Udawalawa NP",0.010989010989011
+"1266","Pinnawala Elephant Orphanage","Udawatta Kele Sanctuary",0.010989010989011
+"1267","Pinnawala Elephant Orphanage","Vatadage",0.010989010989011
+"1268","Polhena Beach","Galle Fort",0.333333333333333
+"1269","Polhena Beach","Weligama Beach",0.666666666666667
+"1270","Ponnambalawaneswaram Kovil","Gangaramaya Temple, Seemama Malaka Temple, PSM",0.333333333333333
+"1271","Ponnambalawaneswaram Kovil","Pettah Market",0.666666666666667
+"1272","Potugal Viharaya","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint",0.8
+"1273","Potugal Viharaya","Sigirya",0.1
+"1274","Potugal Viharaya","Vatadage",0.1
+"1275","Ramboda Falls","Bluefield Tea Factory",0.133333333333333
+"1276","Ramboda Falls","Dewathura Ella",0.0333333333333333
+"1277","Ramboda Falls","Ella Town",0.0666666666666667
+"1278","Ramboda Falls","Galle Fort",0.0333333333333333
+"1279","Ramboda Falls","Glenloch Tea Factory",0.0666666666666667
+"1280","Ramboda Falls","Hortan Plains NP",0.133333333333333
+"1281","Ramboda Falls","Labookellie Tea Factory",0.166666666666667
+"1282","Ramboda Falls","Lake Gregory",0.0666666666666667
+"1283","Ramboda Falls","Mihintale",0.0333333333333333
+"1284","Ramboda Falls","Mirissa Beach",0.0333333333333333
+"1285","Ramboda Falls","Rawana Waterfalls",0.0333333333333333
+"1286","Ramboda Falls","Royal Botanical Gardens",0.0333333333333333
+"1287","Ramboda Falls","Seetha Amman Kovil",0.0666666666666667
+"1288","Ramboda Falls","Stilt Fishing, Koggala",0.0333333333333333
+"1289","Ramboda Falls","Unawatuna Beach",0.0333333333333333
+"1290","Ramboda Falls","Victoria Park",0.0333333333333333
+"1291","Rankoth Vehera","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena",0.808510638297872
+"1292","Rankoth Vehera","Kaudulla NP",0.0212765957446809
+"1293","Rankoth Vehera","Lotus Pond",0.0212765957446809
+"1294","Rankoth Vehera","Sigirya",0.0851063829787234
+"1295","Rankoth Vehera","Siva Devale No. 02",0.0212765957446809
+"1296","Rankoth Vehera","Temple of Tooth Relic",0.0425531914893617
+"1297","Rawana Waterfalls","Adam's Peak",0.0212765957446809
+"1298","Rawana Waterfalls","Arugam Bay Beach",0.0212765957446809
+"1299","Rawana Waterfalls","Bluefield Tea Factory",0.0212765957446809
+"1300","Rawana Waterfalls","Buduruwagala Raja Maha Viharaya",0.0212765957446809
+"1301","Rawana Waterfalls","Buduruwagala Rock Carvings",0.0425531914893617
+"1302","Rawana Waterfalls","Dowa Rock Temple",0.0212765957446809
+"1303","Rawana Waterfalls","Ella Town",0.0851063829787234
+"1304","Rawana Waterfalls","Fort - Colombo",0.0212765957446809
+"1305","Rawana Waterfalls","Galle Fort",0.0425531914893617
+"1306","Rawana Waterfalls","Hortan Plains NP",0.0212765957446809
+"1307","Rawana Waterfalls","Little Adam's Peak Trailhead-Ella",0.0638297872340425
+"1308","Rawana Waterfalls","Polhena Beach",0.0212765957446809
+"1309","Rawana Waterfalls","Sacred City of Kataragama",0.0212765957446809
+"1310","Rawana Waterfalls","Small Ravana Waterfalls",0.0212765957446809
+"1311","Rawana Waterfalls","Temple of Tooth Relic",0.0212765957446809
+"1312","Rawana Waterfalls","Thissa Wewa",0.0425531914893617
+"1313","Rawana Waterfalls","Udawalawa NP",0.170212765957447
+"1314","Rawana Waterfalls","Uwa Halpewatta Tea Factory",0.0212765957446809
+"1315","Rawana Waterfalls","Weligama Beach",0.106382978723404
+"1316","Rawana Waterfalls","Wewurukannala Buduraja Maha Viharaya",0.0212765957446809
+"1317","Rawana Waterfalls","Yala National Park",0.170212765957447
+"1318","Royal Botanical Gardens","Adam's Peak",0.00917431192660551
+"1319","Royal Botanical Gardens","Bandaranayaka International Airport",0.00917431192660551
+"1320","Royal Botanical Gardens","Bickay Nature Reserve",0.00917431192660551
+"1321","Royal Botanical Gardens","Bluefield Tea Factory",0.00917431192660551
+"1322","Royal Botanical Gardens","Buduruwagala Raja Maha Viharaya",0.00917431192660551
+"1323","Royal Botanical Gardens","Buduruwagala Rock Carvings",0.00917431192660551
+"1324","Royal Botanical Gardens","Captain Dawson Tower",0.00917431192660551
+"1325","Royal Botanical Gardens","Christ Church Warleigh",0.00917431192660551
+"1326","Royal Botanical Gardens","Dabulla Cave Temple",0.036697247706422
+"1327","Royal Botanical Gardens","Devon Falls",0.00917431192660551
+"1328","Royal Botanical Gardens","Ella Town",0.018348623853211
+"1329","Royal Botanical Gardens","Galle Fort",0.036697247706422
+"1330","Royal Botanical Gardens","Gangaramaya Temple, Seemama Malaka Temple, PSM",0.018348623853211
+"1331","Royal Botanical Gardens","Getambe Temple",0.00917431192660551
+"1332","Royal Botanical Gardens","Glenloch Tea Factory",0.055045871559633
+"1333","Royal Botanical Gardens","Hortan Plains NP",0.018348623853211
+"1334","Royal Botanical Gardens","Kadugannawa Rock View",0.00917431192660551
+"1335","Royal Botanical Gardens","Kandalama Reservoir",0.00917431192660551
+"1336","Royal Botanical Gardens","Lake Gregory",0.00917431192660551
+"1337","Royal Botanical Gardens","Lanka Tilaka Raja Maha Viharaya",0.00917431192660551
+"1338","Royal Botanical Gardens","Little Adam's Peak Trailhead-Ella",0.00917431192660551
+"1339","Royal Botanical Gardens","Lover's Leap Falls",0.00917431192660551
+"1340","Royal Botanical Gardens","Millenium Elephant Foundation",0.00917431192660551
+"1341","Royal Botanical Gardens","Mirissa Beach",0.00917431192660551
+"1342","Royal Botanical Gardens","Negambo Lagoon",0.00917431192660551
+"1343","Royal Botanical Gardens","Nine Arch Bridge",0.036697247706422
+"1344","Royal Botanical Gardens","Pedro Tea Estate",0.00917431192660551
+"1345","Royal Botanical Gardens","Pettah Market",0.00917431192660551
+"1346","Royal Botanical Gardens","Pinnawala Elephant Orphanage",0.073394495412844
+"1347","Royal Botanical Gardens","Ramboda Falls",0.0275229357798165
+"1348","Royal Botanical Gardens","Rawana Waterfalls",0.00917431192660551
+"1349","Royal Botanical Gardens","Sacred City of Kataragama",0.00917431192660551
+"1350","Royal Botanical Gardens","Sigirya",0.036697247706422
+"1351","Royal Botanical Gardens","Sinharaja FR",0.00917431192660551
+"1352","Royal Botanical Gardens","St. Clairs Falls",0.00917431192660551
+"1353","Royal Botanical Gardens","Tawalantenne ViewPoint",0.0275229357798165
+"1354","Royal Botanical Gardens","Temple of Tooth Relic",0.339449541284404
+"1355","Royal Botanical Gardens","The Kandyan Arts and Crafts",0.0275229357798165
+"1356","Royal Botanical Gardens","Udawatta Kele Sanctuary",0.00917431192660551
+"1357","Royal Botanical Gardens","Weligama Beach",0.00917431192660551
+"1358","Sacred City of Kataragama","Galle Fort",0.1
+"1359","Sacred City of Kataragama","Hikkaduwa Beach",0.05
+"1360","Sacred City of Kataragama","Hortan Plains NP",0.05
+"1361","Sacred City of Kataragama","Little Adam's Peak Trailhead-Ella",0.05
+"1362","Sacred City of Kataragama","Mirissa Beach",0.05
+"1363","Sacred City of Kataragama","Negambo Beach Park",0.05
+"1364","Sacred City of Kataragama","Rawana Waterfalls",0.05
+"1365","Sacred City of Kataragama","Tangalle Beach",0.05
+"1366","Sacred City of Kataragama","Thissa Wewa",0.1
+"1367","Sacred City of Kataragama","Udawalawa NP",0.05
+"1368","Sacred City of Kataragama","Weligama Beach",0.05
+"1369","Sacred City of Kataragama","Yala National Park",0.35
+"1370","Samadhi Buddha Statue","Abayagiriya",0.571428571428571
+"1371","Samadhi Buddha Statue","Dabulla Cave Temple",0.0476190476190476
+"1372","Samadhi Buddha Statue","Jethawanaramaya",0.0476190476190476
+"1373","Samadhi Buddha Statue","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint",0.0476190476190476
+"1374","Samadhi Buddha Statue","Koneshwaram Temple - Trinomalee",0.0476190476190476
+"1375","Samadhi Buddha Statue","Kuttam Pokuna",0.0952380952380952
+"1376","Samadhi Buddha Statue","Mahasena's Palace, Rathna Prasad",0.0476190476190476
+"1377","Samadhi Buddha Statue","Mihintale",0.0476190476190476
+"1378","Samadhi Buddha Statue","Sri Maha Bodiya, Ruwanwelisaya",0.0476190476190476
+"1379","Samadhi Statue - 3","Eth Pokuna",0.666666666666667
+"1380","Samadhi Statue - 3","Mahasena's Palace, Rathna Prasad",0.333333333333333
+"1381","Sambodhi Chaithya","Fort - Colombo",0.333333333333333
+"1382","Sambodhi Chaithya","Pettah Market",0.333333333333333
+"1383","Sambodhi Chaithya","Vihara Maha Devi Park",0.333333333333333
+"1384","Sea Turtle Hatchery - Habaraduwa","Galle Fort",0.333333333333333
+"1385","Sea Turtle Hatchery - Habaraduwa","Star Fort Matara",0.111111111111111
+"1386","Sea Turtle Hatchery - Habaraduwa","Stilt Fishing, Koggala",0.333333333333333
+"1387","Sea Turtle Hatchery - Habaraduwa","Tangalle Beach",0.111111111111111
+"1388","Sea Turtle Hatchery - Habaraduwa","Weligama Beach",0.111111111111111
+"1389","Sea Turtle Hatchery & Rescue Center","Galle Fort",0.333333333333333
+"1390","Sea Turtle Hatchery & Rescue Center","Tsunami Honganji Viharaya",0.666666666666667
+"1391","Seetha Amman Kovil","Dowa Rock Temple",0.125
+"1392","Seetha Amman Kovil","Ella Town",0.1875
+"1393","Seetha Amman Kovil","Labookellie Tea Factory",0.125
+"1394","Seetha Amman Kovil","Lake Gregory",0.0625
+"1395","Seetha Amman Kovil","Little Adam's Peak Trailhead-Ella",0.0625
+"1396","Seetha Amman Kovil","Pedro Tea Estate",0.0625
+"1397","Seetha Amman Kovil","Rawana Waterfalls",0.0625
+"1398","Seetha Amman Kovil","St. Clairs Falls",0.125
+"1399","Seetha Amman Kovil","Stilt Fishing, Midigama",0.0625
+"1400","Seetha Amman Kovil","Udawalawa NP",0.0625
+"1401","Seetha Amman Kovil","Wewurukannala Buduraja Maha Viharaya",0.0625
+"1402","Shri Badrakali Amman Hindu Temple","Dutch Bay Beach",0.333333333333333
+"1403","Shri Badrakali Amman Hindu Temple","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint",0.333333333333333
+"1404","Shri Badrakali Amman Hindu Temple","Nallur Kandaswamy Temple",0.333333333333333
+"1405","Sigirya","Arugam Bay Beach",0.00460829493087558
+"1406","Sigirya","Aukana",0.00460829493087558
+"1407","Sigirya","Bentota Beach",0.00460829493087558
+"1408","Sigirya","Dabulla Cave Temple",0.304147465437788
+"1409","Sigirya","Ella Town",0.00921658986175115
+"1410","Sigirya","Fort - Batticaloa",0.00460829493087558
+"1411","Sigirya","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena",0.0230414746543779
+"1412","Sigirya","Giritale Statue of Lord Buddha",0.00921658986175115
+"1413","Sigirya","Habarana Lake",0.00460829493087558
+"1414","Sigirya","Hummanaya Blow Hole",0.00460829493087558
+"1415","Sigirya","Isurumuni Viharaya",0.00460829493087558
+"1416","Sigirya","Jethawanaramaya",0.00921658986175115
+"1417","Sigirya","Kandalama Reservoir",0.0230414746543779
+"1418","Sigirya","Kaudulla NP",0.00921658986175115
+"1419","Sigirya","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint",0.0921658986175115
+"1420","Sigirya","Kithulgala White Water rafting",0.00460829493087558
+"1421","Sigirya","Koggala Beach",0.00460829493087558
+"1422","Sigirya","Koneshwaram Temple - Trinomalee",0.00460829493087558
+"1423","Sigirya","Labookellie Tea Factory",0.00460829493087558
+"1424","Sigirya","Lotus Pond",0.00460829493087558
+"1425","Sigirya","Maha Parakkrambahu Statue",0.0184331797235023
+"1426","Sigirya","Main Surfing Point Hikkaduwa",0.00460829493087558
+"1427","Sigirya","Mihintale",0.0138248847926267
+"1428","Sigirya","Minneriya NP",0.00460829493087558
+"1429","Sigirya","Mirisavatiya",0.00460829493087558
+"1430","Sigirya","Negambo Beach Park",0.00921658986175115
+"1431","Sigirya","Negambo Lagoon",0.00460829493087558
+"1432","Sigirya","Nilaveli Beach",0.0138248847926267
+"1433","Sigirya","Nine Arch Bridge",0.00460829493087558
+"1434","Sigirya","Pedro Tea Estate",0.00460829493087558
+"1435","Sigirya","Pidurangala",0.0460829493087558
+"1436","Sigirya","Pinnawala Elephant Orphanage",0.0138248847926267
+"1437","Sigirya","Ramboda Falls",0.00921658986175115
+"1438","Sigirya","Rawana Waterfalls",0.00460829493087558
+"1439","Sigirya","Royal Botanical Gardens",0.032258064516129
+"1440","Sigirya","Sri Maha Bodiya, Ruwanwelisaya",0.00921658986175115
+"1441","Sigirya","Sri Muththumari Amman Kovil",0.00460829493087558
+"1442","Sigirya","Tangalle Beach",0.00460829493087558
+"1443","Sigirya","Temple of Tooth Relic",0.161290322580645
+"1444","Sigirya","Udawalawa NP",0.00921658986175115
+"1445","Sigirya","Unawatuna Beach",0.00921658986175115
+"1446","Sigirya","Uppuveli Beach",0.00460829493087558
+"1447","Sigirya","Vatadage",0.0414746543778802
+"1448","Sigirya","Weligama Beach",0.0230414746543779
+"1449","Sigirya","Wilpattu NP",0.00460829493087558
+"1450","Sigirya","Yala National Park",0.00460829493087558
+"1451","Sinharaja FR","Bentota Beach",0.25
+"1452","Sinharaja FR","Chandrika Wewa",0.25
+"1453","Sinharaja FR","Galle Fort",0.25
+"1454","Sinharaja FR","Udawalawa NP",0.25
+"1455","Siva Devale No. 02","Menik Viharaya",0.111111111111111
+"1456","Siva Devale No. 02","Pabalu Vehera",0.222222222222222
+"1457","Siva Devale No. 02","Rankoth Vehera",0.444444444444444
+"1458","Siva Devale No. 02","Thuparamaya",0.111111111111111
+"1459","Siva Devale No. 02","Vatadage",0.111111111111111
+"1460","Sive Subramaniya Kovil Slave Island","Galle Face Green",0.111111111111111
+"1461","Sive Subramaniya Kovil Slave Island","Gangaramaya Temple, Seemama Malaka Temple, PSM",0.333333333333333
+"1462","Sive Subramaniya Kovil Slave Island","Independence Square Park",0.111111111111111
+"1463","Sive Subramaniya Kovil Slave Island","Pettah Market",0.111111111111111
+"1464","Sive Subramaniya Kovil Slave Island","Sigirya",0.111111111111111
+"1465","Sive Subramaniya Kovil Slave Island","Taprobane Island",0.111111111111111
+"1466","Sive Subramaniya Kovil Slave Island","Vihara Maha Devi Park",0.111111111111111
+"1467","Small Ravana Waterfalls","Bluefield Tea Factory",0.181818181818182
+"1468","Small Ravana Waterfalls","Ella Rock",0.0909090909090909
+"1469","Small Ravana Waterfalls","Ella Town",0.272727272727273
+"1470","Small Ravana Waterfalls","Labookellie Tea Factory",0.0909090909090909
+"1471","Small Ravana Waterfalls","Lake Gregory",0.0909090909090909
+"1472","Small Ravana Waterfalls","Rawana Waterfalls",0.0909090909090909
+"1473","Small Ravana Waterfalls","Temple of Tooth Relic",0.0909090909090909
+"1474","Small Ravana Waterfalls","Weligama Beach",0.0909090909090909
+"1475","Sri Maha Bodiya, Ruwanwelisaya","Abayagiriya",0.0510204081632653
+"1476","Sri Maha Bodiya, Ruwanwelisaya","Archaelogical Museum",0.0102040816326531
+"1477","Sri Maha Bodiya, Ruwanwelisaya","Basawakkulama Wewa",0.0408163265306122
+"1478","Sri Maha Bodiya, Ruwanwelisaya","Dabulla Cave Temple",0.0408163265306122
+"1479","Sri Maha Bodiya, Ruwanwelisaya","Dutch Bay Beach",0.0102040816326531
+"1480","Sri Maha Bodiya, Ruwanwelisaya","Eth Pokuna",0.0102040816326531
+"1481","Sri Maha Bodiya, Ruwanwelisaya","Fort - Colombo",0.0102040816326531
+"1482","Sri Maha Bodiya, Ruwanwelisaya","Galle Fort",0.0102040816326531
+"1483","Sri Maha Bodiya, Ruwanwelisaya","Gangaramaya Temple, Seemama Malaka Temple, PSM",0.0102040816326531
+"1484","Sri Maha Bodiya, Ruwanwelisaya","Isurumuni Viharaya",0.0714285714285714
+"1485","Sri Maha Bodiya, Ruwanwelisaya","Jethawanaramaya",0.0408163265306122
+"1486","Sri Maha Bodiya, Ruwanwelisaya","Kandalama Reservoir",0.0102040816326531
+"1487","Sri Maha Bodiya, Ruwanwelisaya","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint",0.0510204081632653
+"1488","Sri Maha Bodiya, Ruwanwelisaya","King Vijayabahu Palace",0.0102040816326531
+"1489","Sri Maha Bodiya, Ruwanwelisaya","Koneshwaram Temple - Trinomalee",0.0204081632653061
+"1490","Sri Maha Bodiya, Ruwanwelisaya","Kuttam Pokuna",0.0306122448979592
+"1491","Sri Maha Bodiya, Ruwanwelisaya","Lankaramaya",0.0102040816326531
+"1492","Sri Maha Bodiya, Ruwanwelisaya","Mahasena's Palace, Rathna Prasad",0.0714285714285714
+"1493","Sri Maha Bodiya, Ruwanwelisaya","Mihintale",0.0612244897959184
+"1494","Sri Maha Bodiya, Ruwanwelisaya","Mirisavatiya",0.0306122448979592
+"1495","Sri Maha Bodiya, Ruwanwelisaya","Pidurangala",0.0102040816326531
+"1496","Sri Maha Bodiya, Ruwanwelisaya","Pigeon Island - Matara",0.0102040816326531
+"1497","Sri Maha Bodiya, Ruwanwelisaya","Pinnawala Elephant Orphanage",0.0102040816326531
+"1498","Sri Maha Bodiya, Ruwanwelisaya","Rankoth Vehera",0.0102040816326531
+"1499","Sri Maha Bodiya, Ruwanwelisaya","Sigirya",0.112244897959184
+"1500","Sri Maha Bodiya, Ruwanwelisaya","Small Ravana Waterfalls",0.0102040816326531
+"1501","Sri Maha Bodiya, Ruwanwelisaya","Temple of Tooth Relic",0.0612244897959184
+"1502","Sri Maha Bodiya, Ruwanwelisaya","Thuparamaya",0.0816326530612245
+"1503","Sri Maha Bodiya, Ruwanwelisaya","Uppuveli Beach",0.0102040816326531
+"1504","Sri Maha Bodiya, Ruwanwelisaya","Uwa Halpewatta Tea Factory",0.0102040816326531
+"1505","Sri Maha Bodiya, Ruwanwelisaya","Vatadage",0.0306122448979592
+"1506","Sri Maha Bodiya, Ruwanwelisaya","Vessagiriya",0.0204081632653061
+"1507","Sri Maha Bodiya, Ruwanwelisaya","Weligama Beach",0.0102040816326531
+"1508","Sri Maha Bodiya, Ruwanwelisaya","Wilpattu NP",0.0102040816326531
+"1509","Sri Meenachi Sundareshwarar Temple","Fort - Colombo",0.25
+"1510","Sri Meenachi Sundareshwarar Temple","Galle Fort",0.5
+"1511","Sri Meenachi Sundareshwarar Temple","Sri Maha Bodiya, Ruwanwelisaya",0.25
+"1512","Sri Munnessarama Devalaya","Madampai Murugan Temple",0.166666666666667
+"1513","Sri Munnessarama Devalaya","Mihintale",0.333333333333333
+"1514","Sri Munnessarama Devalaya","Sri Maha Bodiya, Ruwanwelisaya",0.166666666666667
+"1515","Sri Munnessarama Devalaya","Wilpattu NP",0.333333333333333
+"1516","Sri Muththumari Amman Kovil","Bandaranayaka International Airport",0.0285714285714286
+"1517","Sri Muththumari Amman Kovil","Dabulla Cave Temple",0.0571428571428571
+"1518","Sri Muththumari Amman Kovil","Hortan Plains NP",0.0285714285714286
+"1519","Sri Muththumari Amman Kovil","Isurumuni Viharaya",0.0285714285714286
+"1520","Sri Muththumari Amman Kovil","Kandy Lake Club",0.0285714285714286
+"1521","Sri Muththumari Amman Kovil","Nalanda Gedige",0.0571428571428571
+"1522","Sri Muththumari Amman Kovil","Pinnawala Elephant Orphanage",0.0285714285714286
+"1523","Sri Muththumari Amman Kovil","Royal Botanical Gardens",0.0285714285714286
+"1524","Sri Muththumari Amman Kovil","Sigirya",0.0857142857142857
+"1525","Sri Muththumari Amman Kovil","Temple of Tooth Relic",0.6
+"1526","Sri Muththumari Amman Kovil","Udawatta Kele Sanctuary",0.0285714285714286
+"1527","Sri Muthumari Amman Kovil, Sri Sitthi Vineyagar Temple","Negambo Beach Park",0.2
+"1528","Sri Muthumari Amman Kovil, Sri Sitthi Vineyagar Temple","Negambo Fish Market",0.4
+"1529","Sri Muthumari Amman Kovil, Sri Sitthi Vineyagar Temple","Negambo Lagoon",0.1
+"1530","Sri Muthumari Amman Kovil, Sri Sitthi Vineyagar Temple","Pinnawala Elephant Orphanage",0.2
+"1531","Sri Muthumari Amman Kovil, Sri Sitthi Vineyagar Temple","St. Mary's Church Grand Street",0.1
+"1532","Sri Sambodhi Viharaya/Vipassana Meditation Center","Colombo Light House",0.5
+"1533","Sri Sambodhi Viharaya/Vipassana Meditation Center","Galle Face Green",0.5
+"1534","SSC","Galle Fort",1
+"1535","St. Andrew's Scots Kirk Church","Fort - Colombo",0.166666666666667
+"1536","St. Andrew's Scots Kirk Church","Galle Face Green",0.166666666666667
+"1537","St. Andrew's Scots Kirk Church","Gangaramaya Temple, Seemama Malaka Temple, PSM",0.333333333333333
+"1538","St. Andrew's Scots Kirk Church","Negambo Lagoon",0.166666666666667
+"1539","St. Andrew's Scots Kirk Church","Nelum Pokuna Theatre",0.166666666666667
+"1540","St. Clairs Falls","Devon Falls",0.0769230769230769
+"1541","St. Clairs Falls","Ella Rock",0.153846153846154
+"1542","St. Clairs Falls","Ella Town",0.0769230769230769
+"1543","St. Clairs Falls","Gangaramaya Temple, Seemama Malaka Temple, PSM",0.0769230769230769
+"1544","St. Clairs Falls","Hortan Plains NP",0.153846153846154
+"1545","St. Clairs Falls","Isurumuni Viharaya",0.0769230769230769
+"1546","St. Clairs Falls","Moragalla Beach",0.0769230769230769
+"1547","St. Clairs Falls","Pettah Market",0.0769230769230769
+"1548","St. Clairs Falls","Royal Botanical Gardens",0.0769230769230769
+"1549","St. Clairs Falls","Victor Hasselblad Sea Turtle Research And Conservation Centre",0.0769230769230769
+"1550","St. Clairs Falls","Victoria Park",0.0769230769230769
+"1551","St. Mary's Church Grand Street","Galle Fort",0.2
+"1552","St. Mary's Church Grand Street","Negambo Beach Park",0.2
+"1553","St. Mary's Church Grand Street","Negambo Lagoon",0.2
+"1554","St. Mary's Church Grand Street","Sri Muthumari Amman Kovil, Sri Sitthi Vineyagar Temple",0.2
+"1555","St. Mary's Church Grand Street","St. Sebastian Church",0.2
+"1556","St. Sebastian Church","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena",0.0769230769230769
+"1557","St. Sebastian Church","Hamilton Canal",0.0769230769230769
+"1558","St. Sebastian Church","Negambo Beach Park",0.0769230769230769
+"1559","St. Sebastian Church","Negambo Fish Market",0.0769230769230769
+"1560","St. Sebastian Church","Negambo Lagoon",0.230769230769231
+"1561","St. Sebastian Church","Sri Muthumari Amman Kovil, Sri Sitthi Vineyagar Temple",0.384615384615385
+"1562","St. Sebastian Church","St. Mary's Church Grand Street",0.0769230769230769
+"1563","Star Fort Matara","Bickay Nature Reserve",0.2
+"1564","Star Fort Matara","Koggala Beach",0.2
+"1565","Star Fort Matara","Stilt Fishing, Midigama",0.2
+"1566","Star Fort Matara","Weligama Beach",0.4
+"1567","Stilt Fishing, Kabalana","Bandaranayaka International Airport",0.142857142857143
+"1568","Stilt Fishing, Kabalana","Dewata Beach, Surfing",0.142857142857143
+"1569","Stilt Fishing, Kabalana","Galle Fort",0.428571428571429
+"1570","Stilt Fishing, Kabalana","Temple of Tooth Relic",0.142857142857143
+"1571","Stilt Fishing, Kabalana","Unawatuna Beach",0.142857142857143
+"1572","Stilt Fishing, Koggala","Bickay Nature Reserve",0.0714285714285714
+"1573","Stilt Fishing, Koggala","Galle Fort",0.214285714285714
+"1574","Stilt Fishing, Koggala","Little Adam's Peak Trailhead-Ella",0.0714285714285714
+"1575","Stilt Fishing, Koggala","Pigeon Island - Matara",0.0714285714285714
+"1576","Stilt Fishing, Koggala","Royal Botanical Gardens",0.0714285714285714
+"1577","Stilt Fishing, Koggala","Sea Turtle Hatchery - Habaraduwa",0.0714285714285714
+"1578","Stilt Fishing, Koggala","Temple of Tooth Relic",0.0714285714285714
+"1579","Stilt Fishing, Koggala","Unawatuna Beach",0.142857142857143
+"1580","Stilt Fishing, Koggala","Weligama Beach",0.214285714285714
+"1581","Stilt Fishing, Midigama","Arugam Bay Beach",0.1
+"1582","Stilt Fishing, Midigama","Chandrika Wewa",0.1
+"1583","Stilt Fishing, Midigama","Dewata Beach, Surfing",0.1
+"1584","Stilt Fishing, Midigama","Galle Fort",0.5
+"1585","Stilt Fishing, Midigama","Stilt Fishing, Kabalana",0.1
+"1586","Stilt Fishing, Midigama","Weligama Beach",0.1
+"1587","Tangalle Beach","Dondra Head Lighthouse",0.0526315789473684
+"1588","Tangalle Beach","Ella Town",0.0526315789473684
+"1589","Tangalle Beach","Galle Fort",0.105263157894737
+"1590","Tangalle Beach","Giragama Tea Factory",0.0526315789473684
+"1591","Tangalle Beach","Goyambokka Beach",0.0526315789473684
+"1592","Tangalle Beach","Hiriketiya Beach",0.0526315789473684
+"1593","Tangalle Beach","Mirissa Beach",0.0526315789473684
+"1594","Tangalle Beach","Mulkirigala Rajamahaa Viharaya",0.0526315789473684
+"1595","Tangalle Beach","Thissa Wewa",0.105263157894737
+"1596","Tangalle Beach","Unawatuna Beach",0.0526315789473684
+"1597","Tangalle Beach","Weligama Beach",0.210526315789474
+"1598","Tangalle Beach","Wewurukannala Buduraja Maha Viharaya",0.0526315789473684
+"1599","Tangalle Beach","Yala National Park",0.105263157894737
+"1600","Taprobane Island","Dabulla Cave Temple",0.25
+"1601","Taprobane Island","Dalawella Beach",0.25
+"1602","Taprobane Island","Galle Fort",0.5
+"1603","Tawalantenne ViewPoint","Bluefield Tea Factory",0.09375
+"1604","Tawalantenne ViewPoint","Dewathura Ella",0.09375
+"1605","Tawalantenne ViewPoint","Fort - Colombo",0.03125
+"1606","Tawalantenne ViewPoint","Hortan Plains NP",0.125
+"1607","Tawalantenne ViewPoint","Koneshwaram Temple - Trinomalee",0.03125
+"1608","Tawalantenne ViewPoint","Labookellie Tea Factory",0.125
+"1609","Tawalantenne ViewPoint","Lake Gregory",0.03125
+"1610","Tawalantenne ViewPoint","Little Adam's Peak Trailhead-Ella",0.03125
+"1611","Tawalantenne ViewPoint","Ramboda Falls",0.1875
+"1612","Tawalantenne ViewPoint","Rawana Waterfalls",0.0625
+"1613","Tawalantenne ViewPoint","Royal Botanical Gardens",0.0625
+"1614","Tawalantenne ViewPoint","Sea Turtle Hatchery & Rescue Center",0.03125
+"1615","Tawalantenne ViewPoint","Seetha Amman Kovil",0.03125
+"1616","Tawalantenne ViewPoint","Sigirya",0.03125
+"1617","Tawalantenne ViewPoint","Temple of Tooth Relic",0.03125
+"1618","Temple of Sri Kailawasanthan Swami Devasthanam Kovil","Gangaramaya Temple, Seemama Malaka Temple, PSM",0.25
+"1619","Temple of Sri Kailawasanthan Swami Devasthanam Kovil","Negambo Fish Market",0.25
+"1620","Temple of Sri Kailawasanthan Swami Devasthanam Kovil","Ponnambalawaneswaram Kovil",0.5
+"1621","Temple of Tooth Relic","Adam's Peak",0.0181818181818182
+"1622","Temple of Tooth Relic","Arugam Bay Beach",0.00363636363636364
+"1623","Temple of Tooth Relic","Bahirawakanda Temple",0.0109090909090909
+"1624","Temple of Tooth Relic","Batticaloa Light House",0.00363636363636364
+"1625","Temple of Tooth Relic","Beach - Mt. Lavinia",0.00363636363636364
+"1626","Temple of Tooth Relic","Bluefield Tea Factory",0.00363636363636364
+"1627","Temple of Tooth Relic","Dabatenna Tea Factory",0.00363636363636364
+"1628","Temple of Tooth Relic","Dabulla Cave Temple",0.0509090909090909
+"1629","Temple of Tooth Relic","Devon Falls",0.00363636363636364
+"1630","Temple of Tooth Relic","Dewathura Ella",0.00363636363636364
+"1631","Temple of Tooth Relic","Dutch Bay Beach",0.00363636363636364
+"1632","Temple of Tooth Relic","Ella Town",0.0109090909090909
+"1633","Temple of Tooth Relic","Embekka Dewalaya",0.00727272727272727
+"1634","Temple of Tooth Relic","Fort - Colombo",0.00363636363636364
+"1635","Temple of Tooth Relic","Gadaladeniya Temple",0.00727272727272727
+"1636","Temple of Tooth Relic","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena",0.00727272727272727
+"1637","Temple of Tooth Relic","Galle Beach",0.00363636363636364
+"1638","Temple of Tooth Relic","Galle Face Green",0.00363636363636364
+"1639","Temple of Tooth Relic","Galle Fort",0.0836363636363636
+"1640","Temple of Tooth Relic","Gangaramaya Temple, Seemama Malaka Temple, PSM",0.00363636363636364
+"1641","Temple of Tooth Relic","Getambe Temple",0.00727272727272727
+"1642","Temple of Tooth Relic","Giragama Tea Factory",0.0145454545454545
+"1643","Temple of Tooth Relic","Glenloch Tea Factory",0.0218181818181818
+"1644","Temple of Tooth Relic","Hortan Plains NP",0.0327272727272727
+"1645","Temple of Tooth Relic","Jethawanaramaya",0.00363636363636364
+"1646","Temple of Tooth Relic","Kadugannawa Rock View",0.00363636363636364
+"1647","Temple of Tooth Relic","Kandalama Reservoir",0.00363636363636364
+"1648","Temple of Tooth Relic","Kande Viharaya Temple",0.00363636363636364
+"1649","Temple of Tooth Relic","Kandy Lake Club",0.00363636363636364
+"1650","Temple of Tooth Relic","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint",0.00363636363636364
+"1651","Temple of Tooth Relic","Kithulgala White Water rafting",0.00363636363636364
+"1652","Temple of Tooth Relic","Koneshwaram Temple - Trinomalee",0.00363636363636364
+"1653","Temple of Tooth Relic","Labookellie Tea Factory",0.0290909090909091
+"1654","Temple of Tooth Relic","Lake Gregory",0.00727272727272727
+"1655","Temple of Tooth Relic","Lanka Tilaka Raja Maha Viharaya",0.0109090909090909
+"1656","Temple of Tooth Relic","Lipton's Seat",0.00363636363636364
+"1657","Temple of Tooth Relic","Little Adam's Peak Trailhead-Ella",0.0109090909090909
+"1658","Temple of Tooth Relic","Madu Ganga",0.00727272727272727
+"1659","Temple of Tooth Relic","Mahasena's Palace, Rathna Prasad",0.00363636363636364
+"1660","Temple of Tooth Relic","Main Surfing Point Hikkaduwa",0.00363636363636364
+"1661","Temple of Tooth Relic","Matara Beach",0.00363636363636364
+"1662","Temple of Tooth Relic","Mihintale",0.00363636363636364
+"1663","Temple of Tooth Relic","Millenium Elephant Foundation",0.00363636363636364
+"1664","Temple of Tooth Relic","Mirissa Beach",0.0145454545454545
+"1665","Temple of Tooth Relic","Moragalla Beach",0.00363636363636364
+"1666","Temple of Tooth Relic","Nalanda Gedige",0.00363636363636364
+"1667","Temple of Tooth Relic","National Zoological Garden",0.00363636363636364
+"1668","Temple of Tooth Relic","Negambo Beach Park",0.00363636363636364
+"1669","Temple of Tooth Relic","Negambo Fish Market",0.00363636363636364
+"1670","Temple of Tooth Relic","Nine Arch Bridge",0.00363636363636364
+"1671","Temple of Tooth Relic","Pedro Tea Estate",0.00727272727272727
+"1672","Temple of Tooth Relic","Pettah Market",0.0181818181818182
+"1673","Temple of Tooth Relic","Pigeon Island - Matara",0.00363636363636364
+"1674","Temple of Tooth Relic","Pinnawala Elephant Orphanage",0.04
+"1675","Temple of Tooth Relic","Ramboda Falls",0.0218181818181818
+"1676","Temple of Tooth Relic","Rawana Waterfalls",0.00727272727272727
+"1677","Temple of Tooth Relic","Royal Botanical Gardens",0.178181818181818
+"1678","Temple of Tooth Relic","Sacred City of Kataragama",0.0109090909090909
+"1679","Temple of Tooth Relic","Seetha Amman Kovil",0.00363636363636364
+"1680","Temple of Tooth Relic","Sigirya",0.0581818181818182
+"1681","Temple of Tooth Relic","Small Ravana Waterfalls",0.00363636363636364
+"1682","Temple of Tooth Relic","Sri Maha Bodiya, Ruwanwelisaya",0.00363636363636364
+"1683","Temple of Tooth Relic","Sri Muththumari Amman Kovil",0.0218181818181818
+"1684","Temple of Tooth Relic","St. Clairs Falls",0.0181818181818182
+"1685","Temple of Tooth Relic","St. Sebastian Church",0.00363636363636364
+"1686","Temple of Tooth Relic","Tawalantenne ViewPoint",0.0327272727272727
+"1687","Temple of Tooth Relic","The Kandyan Arts and Crafts",0.0109090909090909
+"1688","Temple of Tooth Relic","Thissa Wewa",0.0109090909090909
+"1689","Temple of Tooth Relic","Thuparamaya",0.00363636363636364
+"1690","Temple of Tooth Relic","Udawalawa NP",0.00727272727272727
+"1691","Temple of Tooth Relic","Udawatta Kele Sanctuary",0.0109090909090909
+"1692","Temple of Tooth Relic","Unawatuna Beach",0.00727272727272727
+"1693","Temple of Tooth Relic","Victoria Park",0.0109090909090909
+"1694","Temple of Tooth Relic","Vihara Maha Devi Park",0.00363636363636364
+"1695","Temple of Tooth Relic","Weligama Beach",0.0218181818181818
+"1696","Temple of Tooth Relic","Yala National Park",0.0109090909090909
+"1697","The Kandyan Arts and Crafts","Bluefield Tea Factory",0.142857142857143
+"1698","The Kandyan Arts and Crafts","Kithulgala White Water rafting",0.142857142857143
+"1699","The Kandyan Arts and Crafts","Labookellie Tea Factory",0.142857142857143
+"1700","The Kandyan Arts and Crafts","Pinnawala Elephant Orphanage",0.142857142857143
+"1701","The Kandyan Arts and Crafts","Temple of Tooth Relic",0.285714285714286
+"1702","The Kandyan Arts and Crafts","Udawalawa NP",0.142857142857143
+"1703","Thissa Wewa","Galle Fort",0.125
+"1704","Thissa Wewa","Hortan Plains NP",0.0416666666666667
+"1705","Thissa Wewa","Madu Ganga",0.0416666666666667
+"1706","Thissa Wewa","Mirissa Beach",0.0416666666666667
+"1707","Thissa Wewa","Rawana Waterfalls",0.0416666666666667
+"1708","Thissa Wewa","Sacred City of Kataragama",0.0833333333333333
+"1709","Thissa Wewa","Thissamaharamaya Viharaya",0.0833333333333333
+"1710","Thissa Wewa","Unawatuna Beach",0.0833333333333333
+"1711","Thissa Wewa","Weligama Beach",0.208333333333333
+"1712","Thissa Wewa","Yala National Park",0.208333333333333
+"1713","Thissa Wewa","Yatala Vehera",0.0416666666666667
+"1714","Thissamaharamaya Viharaya","Hortan Plains NP",0.166666666666667
+"1715","Thissamaharamaya Viharaya","Thissa Wewa",0.333333333333333
+"1716","Thissamaharamaya Viharaya","Weligama Beach",0.333333333333333
+"1717","Thissamaharamaya Viharaya","Yala National Park",0.166666666666667
+"1718","Thuparamaya","Abayagiriya",0.0606060606060606
+"1719","Thuparamaya","Eth Pokuna",0.0606060606060606
+"1720","Thuparamaya","Galle Fort",0.0303030303030303
+"1721","Thuparamaya","Isurumuni Viharaya",0.0303030303030303
+"1722","Thuparamaya","Jaffna Public Libraray",0.0303030303030303
+"1723","Thuparamaya","Jethawanaramaya",0.121212121212121
+"1724","Thuparamaya","Kuttam Pokuna",0.0303030303030303
+"1725","Thuparamaya","Lankaramaya",0.0909090909090909
+"1726","Thuparamaya","Mahasena's Palace, Rathna Prasad",0.0606060606060606
+"1727","Thuparamaya","Mihintale",0.0303030303030303
+"1728","Thuparamaya","Nallur Kandaswamy Temple",0.0303030303030303
+"1729","Thuparamaya","Rankoth Vehera",0.0303030303030303
+"1730","Thuparamaya","Samadhi Buddha Statue",0.0303030303030303
+"1731","Thuparamaya","Sigirya",0.0303030303030303
+"1732","Thuparamaya","Sri Maha Bodiya, Ruwanwelisaya",0.272727272727273
+"1733","Thuparamaya","Temple of Tooth Relic",0.0606060606060606
+"1734","Tivanka Pilimage","Dabulla Cave Temple",0.2
+"1735","Tivanka Pilimage","Kandalama Reservoir",0.1
+"1736","Tivanka Pilimage","Lotus Pond",0.2
+"1737","Tivanka Pilimage","Medirigiriya Vatadage",0.1
+"1738","Tivanka Pilimage","Sigirya",0.3
+"1739","Tivanka Pilimage","Sri Muththumari Amman Kovil",0.1
+"1740","Townhall - Colombo","Bandaranayaka International Airport",0.0666666666666667
+"1741","Townhall - Colombo","Beach - Wellawatta",0.0666666666666667
+"1742","Townhall - Colombo","Fort - Colombo",0.0666666666666667
+"1743","Townhall - Colombo","Galle Face Green",0.0666666666666667
+"1744","Townhall - Colombo","Gangaramaya Temple, Seemama Malaka Temple, PSM",0.2
+"1745","Townhall - Colombo","Independence Square Park",0.0666666666666667
+"1746","Townhall - Colombo","Narigama Beach",0.0666666666666667
+"1747","Townhall - Colombo","Nelum Pokuna Theatre",0.0666666666666667
+"1748","Townhall - Colombo","Pettah Market",0.2
+"1749","Townhall - Colombo","Vihara Maha Devi Park",0.133333333333333
+"1750","Tsunami Honganji Viharaya","Colombo Light House",0.0833333333333333
+"1751","Tsunami Honganji Viharaya","Galle Fort",0.25
+"1752","Tsunami Honganji Viharaya","Independence Square Park",0.0833333333333333
+"1753","Tsunami Honganji Viharaya","Koggala Beach",0.0833333333333333
+"1754","Tsunami Honganji Viharaya","Moragalla Beach",0.0833333333333333
+"1755","Tsunami Honganji Viharaya","Peraliya Tsunami Memorial Statue",0.25
+"1756","Tsunami Honganji Viharaya","Stilt Fishing, Koggala",0.0833333333333333
+"1757","Tsunami Honganji Viharaya","Weligama Beach",0.0833333333333333
+"1758","Turtle Beach","Coconut Tree Hill",0.25
+"1759","Turtle Beach","Galle Fort",0.25
+"1760","Turtle Beach","Mirissa Beach",0.25
+"1761","Turtle Beach","Weligama Beach",0.25
+"1762","Udawalawa NP","Bandaranayaka International Airport",0.0344827586206897
+"1763","Udawalawa NP","Chandrika Wewa",0.0689655172413793
+"1764","Udawalawa NP","Ella Town",0.0344827586206897
+"1765","Udawalawa NP","Fort - Colombo",0.0689655172413793
+"1766","Udawalawa NP","Galle Fort",0.0689655172413793
+"1767","Udawalawa NP","Koggala Beach",0.0344827586206897
+"1768","Udawalawa NP","Little Adam's Peak Trailhead-Ella",0.0344827586206897
+"1769","Udawalawa NP","Matara Beach",0.0344827586206897
+"1770","Udawalawa NP","Mirissa Beach",0.103448275862069
+"1771","Udawalawa NP","Rawana Waterfalls",0.0344827586206897
+"1772","Udawalawa NP","Sacred City of Kataragama",0.0689655172413793
+"1773","Udawalawa NP","Tangalle Beach",0.0344827586206897
+"1774","Udawalawa NP","Unawatuna Beach",0.0344827586206897
+"1775","Udawalawa NP","Weligama Beach",0.137931034482759
+"1776","Udawalawa NP","Wewurukannala Buduraja Maha Viharaya",0.0689655172413793
+"1777","Udawalawa NP","Yala National Park",0.137931034482759
+"1778","Udawatta Kele Sanctuary","Adam's Peak",0.2
+"1779","Udawatta Kele Sanctuary","Glenloch Tea Factory",0.2
+"1780","Udawatta Kele Sanctuary","Royal Botanical Gardens",0.2
+"1781","Udawatta Kele Sanctuary","Temple of Tooth Relic",0.4
+"1782","Unawatuna Beach","Bickay Nature Reserve",0.0227272727272727
+"1783","Unawatuna Beach","Dalawella Beach",0.0454545454545455
+"1784","Unawatuna Beach","Galle Beach",0.0227272727272727
+"1785","Unawatuna Beach","Galle Face Green",0.0227272727272727
+"1786","Unawatuna Beach","Galle Fort",0.363636363636364
+"1787","Unawatuna Beach","Gangaramaya Temple, Seemama Malaka Temple, PSM",0.0227272727272727
+"1788","Unawatuna Beach","Hortan Plains NP",0.0227272727272727
+"1789","Unawatuna Beach","Japanese Peace Pagoda Rumassala",0.0227272727272727
+"1790","Unawatuna Beach","Jungle Beach",0.0681818181818182
+"1791","Unawatuna Beach","Koggala Beach",0.0227272727272727
+"1792","Unawatuna Beach","Mirissa Beach",0.0909090909090909
+"1793","Unawatuna Beach","Negambo Beach Park",0.0454545454545455
+"1794","Unawatuna Beach","Pinnawala Elephant Orphanage",0.0227272727272727
+"1795","Unawatuna Beach","Sea Turtle Hatchery - Habaraduwa",0.0227272727272727
+"1796","Unawatuna Beach","Sea Turtle Hatchery & Rescue Center",0.0227272727272727
+"1797","Unawatuna Beach","Sigirya",0.0227272727272727
+"1798","Unawatuna Beach","Stilt Fishing, Kabalana",0.0227272727272727
+"1799","Unawatuna Beach","Unawatuna Diving",0.0227272727272727
+"1800","Unawatuna Beach","Victor Hasselblad Sea Turtle Research And Conservation Centre",0.0227272727272727
+"1801","Unawatuna Beach","Weherahena Poorwarama Rajamaha Viharaya",0.0227272727272727
+"1802","Unawatuna Beach","Weligama Beach",0.0227272727272727
+"1803","Unawatuna Beach","Yala National Park",0.0227272727272727
+"1804","Unawatuna Diving","Galle Fort",0.2
+"1805","Unawatuna Diving","Gangaramaya Temple, Seemama Malaka Temple, PSM",0.1
+"1806","Unawatuna Diving","Pettah Market",0.1
+"1807","Unawatuna Diving","Sigirya",0.1
+"1808","Unawatuna Diving","Unawatuna Beach",0.4
+"1809","Unawatuna Diving","Weligama Beach",0.1
+"1810","Uppuveli Beach","Dabulla Cave Temple",0.0909090909090909
+"1811","Uppuveli Beach","Dutch Bay Beach",0.0909090909090909
+"1812","Uppuveli Beach","Fort - Colombo",0.0909090909090909
+"1813","Uppuveli Beach","Galle Fort",0.0909090909090909
+"1814","Uppuveli Beach","Gangaramaya Temple, Seemama Malaka Temple, PSM",0.0909090909090909
+"1815","Uppuveli Beach","Koneshwaram Temple - Trinomalee",0.0909090909090909
+"1816","Uppuveli Beach","Pidurangala",0.0909090909090909
+"1817","Uppuveli Beach","Shri Badrakali Amman Hindu Temple",0.0909090909090909
+"1818","Uppuveli Beach","Sigirya",0.0909090909090909
+"1819","Uppuveli Beach","Temple of Tooth Relic",0.181818181818182
+"1820","Uwa Halpewatta Tea Factory","Ella Town",0.25
+"1821","Uwa Halpewatta Tea Factory","Galle Fort",0.25
+"1822","Uwa Halpewatta Tea Factory","Tangalle Beach",0.25
+"1823","Uwa Halpewatta Tea Factory","Temple of Tooth Relic",0.25
+"1824","Vatadage","Adam's Peak",0.0108695652173913
+"1825","Vatadage","Aukana",0.0108695652173913
+"1826","Vatadage","Dabulla Cave Temple",0.0326086956521739
+"1827","Vatadage","Fort - Colombo",0.0108695652173913
+"1828","Vatadage","Gal Viharaya, Kiri Vehera, Lankatilaka Temple, Alahana Pirivena",0.326086956521739
+"1829","Vatadage","Galle Fort",0.0108695652173913
+"1830","Vatadage","Habarana Lake",0.0108695652173913
+"1831","Vatadage","King Parakkramabahu Palace, King Nishshankamalla Palace, Parakrama Samudraya Viewpoint",0.0652173913043478
+"1832","Vatadage","Menik Viharaya",0.0108695652173913
+"1833","Vatadage","Pabalu Vehera",0.0326086956521739
+"1834","Vatadage","Pedro Tea Estate",0.0108695652173913
+"1835","Vatadage","Rankoth Vehera",0.271739130434783
+"1836","Vatadage","Royal Botanical Gardens",0.0108695652173913
+"1837","Vatadage","Sigirya",0.0869565217391304
+"1838","Vatadage","Siva Devale No. 02",0.0652173913043478
+"1839","Vatadage","Sri Muththumari Amman Kovil",0.0108695652173913
+"1840","Vatadage","Temple of Tooth Relic",0.0108695652173913
+"1841","Vatadage","Vessagiriya",0.0108695652173913
+"1842","Vessagiriya","Isurumuni Viharaya",0.571428571428571
+"1843","Vessagiriya","Jethawanaramaya",0.142857142857143
+"1844","Vessagiriya","Mirisavatiya",0.142857142857143
+"1845","Vessagiriya","Sigirya",0.142857142857143
+"1846","Victor Hasselblad Sea Turtle Research And Conservation Centre","Bentota Beach",0.142857142857143
+"1847","Victor Hasselblad Sea Turtle Research And Conservation Centre","BMICH",0.142857142857143
+"1848","Victor Hasselblad Sea Turtle Research And Conservation Centre","Independence Square Park",0.142857142857143
+"1849","Victor Hasselblad Sea Turtle Research And Conservation Centre","Madu Ganga",0.428571428571429
+"1850","Victor Hasselblad Sea Turtle Research And Conservation Centre","St. Sebastian Church",0.142857142857143
+"1851","Victoria Park","Gadaladeniya Temple",0.0714285714285714
+"1852","Victoria Park","Galle Fort",0.0714285714285714
+"1853","Victoria Park","Hortan Plains NP",0.142857142857143
+"1854","Victoria Park","Kandy Lake Club",0.0714285714285714
+"1855","Victoria Park","Little Adam's Peak Trailhead-Ella",0.0714285714285714
+"1856","Victoria Park","Mirissa Beach",0.0714285714285714
+"1857","Victoria Park","Nine Arch Bridge",0.0714285714285714
+"1858","Victoria Park","Pedro Tea Estate",0.142857142857143
+"1859","Victoria Park","Royal Botanical Gardens",0.0714285714285714
+"1860","Victoria Park","St. Clairs Falls",0.0714285714285714
+"1861","Victoria Park","Temple of Tooth Relic",0.0714285714285714
+"1862","Victoria Park","Udawalawa NP",0.0714285714285714
+"1863","Vihara Maha Devi Park","Beach - Mt. Lavinia",0.03125
+"1864","Vihara Maha Devi Park","Bentota Beach",0.03125
+"1865","Vihara Maha Devi Park","BMICH",0.03125
+"1866","Vihara Maha Devi Park","CCC Ground",0.03125
+"1867","Vihara Maha Devi Park","Colombo Light House",0.03125
+"1868","Vihara Maha Devi Park","Dabulla Cave Temple",0.03125
+"1869","Vihara Maha Devi Park","Fort - Colombo",0.03125
+"1870","Vihara Maha Devi Park","Galle Face Green",0.03125
+"1871","Vihara Maha Devi Park","Gangaramaya Temple, Seemama Malaka Temple, PSM",0.125
+"1872","Vihara Maha Devi Park","Green Path Colombo",0.03125
+"1873","Vihara Maha Devi Park","Independence Square Park",0.15625
+"1874","Vihara Maha Devi Park","National Museum of Colombo",0.0625
+"1875","Vihara Maha Devi Park","National Zoological Garden",0.03125
+"1876","Vihara Maha Devi Park","Pettah Market",0.03125
+"1877","Vihara Maha Devi Park","Sive Subramaniya Kovil Slave Island",0.03125
+"1878","Vihara Maha Devi Park","Temple of Tooth Relic",0.0625
+"1879","Vihara Maha Devi Park","Townhall - Colombo",0.1875
+"1880","Vihara Maha Devi Park","Wolvendaal Church",0.03125
+"1881","Weherahena Poorwarama Rajamaha Viharaya","Dondra Head Lighthouse",0.25
+"1882","Weherahena Poorwarama Rajamaha Viharaya","Hummanaya Blow Hole",0.25
+"1883","Weherahena Poorwarama Rajamaha Viharaya","Pigeon Island - Matara",0.25
+"1884","Weherahena Poorwarama Rajamaha Viharaya","Weligama Beach",0.25
+"1885","Weligama Beach","Adam's Peak",0.024390243902439
+"1886","Weligama Beach","Bandaranayaka International Airport",0.040650406504065
+"1887","Weligama Beach","Coconut Tree Hill",0.032520325203252
+"1888","Weligama Beach","Devinuwara Sri Vishnu Maha Devalaya",0.016260162601626
+"1889","Weligama Beach","Dewata Beach, Surfing",0.00813008130081301
+"1890","Weligama Beach","Dondra Head Lighthouse",0.040650406504065
+"1891","Weligama Beach","Ella Town",0.032520325203252
+"1892","Weligama Beach","Galle Beach",0.016260162601626
+"1893","Weligama Beach","Galle Face Green",0.00813008130081301
+"1894","Weligama Beach","Galle Fort",0.252032520325203
+"1895","Weligama Beach","Gangaramaya Temple, Seemama Malaka Temple, PSM",0.00813008130081301
+"1896","Weligama Beach","Hiriketiya Beach",0.00813008130081301
+"1897","Weligama Beach","Hummanaya Blow Hole",0.00813008130081301
+"1898","Weligama Beach","Japanese Peace Pagoda Rumassala",0.00813008130081301
+"1899","Weligama Beach","Koggala Beach",0.00813008130081301
+"1900","Weligama Beach","Labookellie Tea Factory",0.00813008130081301
+"1901","Weligama Beach","Little Adam's Peak Trailhead-Ella",0.016260162601626
+"1902","Weligama Beach","Mirissa Beach",0.121951219512195
+"1903","Weligama Beach","Mulkirigala Rajamahaa Viharaya",0.00813008130081301
+"1904","Weligama Beach","Negambo Beach Park",0.016260162601626
+"1905","Weligama Beach","Negambo Lagoon",0.00813008130081301
+"1906","Weligama Beach","Pigeon Island - Matara",0.032520325203252
+"1907","Weligama Beach","Pinnawala Elephant Orphanage",0.00813008130081301
+"1908","Weligama Beach","Rawana Waterfalls",0.016260162601626
+"1909","Weligama Beach","Sea Turtle Hatchery - Habaraduwa",0.00813008130081301
+"1910","Weligama Beach","Sigirya",0.00813008130081301
+"1911","Weligama Beach","St. Sebastian Church",0.00813008130081301
+"1912","Weligama Beach","Star Fort Matara",0.00813008130081301
+"1913","Weligama Beach","Stilt Fishing, Kabalana",0.024390243902439
+"1914","Weligama Beach","Stilt Fishing, Koggala",0.024390243902439
+"1915","Weligama Beach","Stilt Fishing, Midigama",0.032520325203252
+"1916","Weligama Beach","Tangalle Beach",0.00813008130081301
+"1917","Weligama Beach","Taprobane Island",0.00813008130081301
+"1918","Weligama Beach","Temple of Tooth Relic",0.00813008130081301
+"1919","Weligama Beach","Thissa Wewa",0.016260162601626
+"1920","Weligama Beach","Turtle Beach",0.00813008130081301
+"1921","Weligama Beach","Udawalawa NP",0.016260162601626
+"1922","Weligama Beach","Unawatuna Beach",0.024390243902439
+"1923","Weligama Beach","Wewurukannala Buduraja Maha Viharaya",0.00813008130081301
+"1924","Weligama Beach","Yala National Park",0.040650406504065
+"1925","Wewala Beach","Galle Fort",0.333333333333333
+"1926","Wewala Beach","Main Surfing Point Hikkaduwa",0.333333333333333
+"1927","Wewala Beach","Weligama Beach",0.333333333333333
+"1928","Wewurukannala Buduraja Maha Viharaya","Dabulla Cave Temple",0.142857142857143
+"1929","Wewurukannala Buduraja Maha Viharaya","Galle Fort",0.285714285714286
+"1930","Wewurukannala Buduraja Maha Viharaya","Kande Viharaya Temple",0.142857142857143
+"1931","Wewurukannala Buduraja Maha Viharaya","Mirissa Beach",0.142857142857143
+"1932","Wewurukannala Buduraja Maha Viharaya","Weligama Beach",0.285714285714286
+"1933","Wilpattu NP","Dabulla Cave Temple",0.1
+"1934","Wilpattu NP","Galle Fort",0.1
+"1935","Wilpattu NP","Hortan Plains NP",0.1
+"1936","Wilpattu NP","Isurumuni Viharaya",0.1
+"1937","Wilpattu NP","Mihintale",0.2
+"1938","Wilpattu NP","Mirisavatiya",0.1
+"1939","Wilpattu NP","Negambo Beach Park",0.1
+"1940","Wilpattu NP","Samadhi Buddha Statue",0.1
+"1941","Wilpattu NP","Thuparamaya",0.1
+"1942","Wolvendaal Church","Ashokaramaya Temple",0.111111111111111
+"1943","Wolvendaal Church","Beach - Mt. Lavinia",0.111111111111111
+"1944","Wolvendaal Church","Dabulla Cave Temple",0.111111111111111
+"1945","Wolvendaal Church","Gangaramaya Temple, Seemama Malaka Temple, PSM",0.222222222222222
+"1946","Wolvendaal Church","Negambo Fish Market",0.111111111111111
+"1947","Wolvendaal Church","Pedro Tea Estate",0.111111111111111
+"1948","Wolvendaal Church","Pettah Market",0.222222222222222
+"1949","Yala National Park","Adam's Peak",0.0303030303030303
+"1950","Yala National Park","Ahungalla Beach",0.0151515151515152
+"1951","Yala National Park","Arugam Bay Beach",0.0151515151515152
+"1952","Yala National Park","Bickay Nature Reserve",0.0151515151515152
+"1953","Yala National Park","Buduruwagala Rock Carvings",0.0151515151515152
+"1954","Yala National Park","Dalawella Beach",0.0151515151515152
+"1955","Yala National Park","Devinuwara Sri Vishnu Maha Devalaya",0.0303030303030303
+"1956","Yala National Park","Dondra Head Lighthouse",0.0151515151515152
+"1957","Yala National Park","Fort - Batticaloa",0.0151515151515152
+"1958","Yala National Park","Galle Fort",0.0909090909090909
+"1959","Yala National Park","Glenloch Tea Factory",0.0151515151515152
+"1960","Yala National Park","Goyambokka Beach",0.0151515151515152
+"1961","Yala National Park","Hortan Plains NP",0.0151515151515152
+"1962","Yala National Park","Hummanaya Blow Hole",0.0151515151515152
+"1963","Yala National Park","Isurumuni Viharaya",0.0151515151515152
+"1964","Yala National Park","Labookellie Tea Factory",0.0151515151515152
+"1965","Yala National Park","Lipton's Seat",0.0151515151515152
+"1966","Yala National Park","Little Adam's Peak Trailhead-Ella",0.0303030303030303
+"1967","Yala National Park","Madu Ganga",0.0151515151515152
+"1968","Yala National Park","Mirissa Beach",0.0151515151515152
+"1969","Yala National Park","Mulkirigala Rajamahaa Viharaya",0.0151515151515152
+"1970","Yala National Park","Nine Arch Bridge",0.0151515151515152
+"1971","Yala National Park","Rawana Waterfalls",0.0606060606060606
+"1972","Yala National Park","Sacred City of Kataragama",0.0151515151515152
+"1973","Yala National Park","Sigirya",0.0303030303030303
+"1974","Yala National Park","Small Ravana Waterfalls",0.0151515151515152
+"1975","Yala National Park","Tangalle Beach",0.0303030303030303
+"1976","Yala National Park","Thissa Wewa",0.0909090909090909
+"1977","Yala National Park","Thissamaharamaya Viharaya",0.0303030303030303
+"1978","Yala National Park","Turtle Beach",0.0151515151515152
+"1979","Yala National Park","Udawalawa NP",0.0303030303030303
+"1980","Yala National Park","Unawatuna Beach",0.0151515151515152
+"1981","Yala National Park","Victor Hasselblad Sea Turtle Research And Conservation Centre",0.0151515151515152
+"1982","Yala National Park","Weligama Beach",0.166666666666667
+"1983","Yala National Park","Wewurukannala Buduraja Maha Viharaya",0.0151515151515152
+"1984","Yala National Park","Yatala Vehera",0.0151515151515152
+"1985","Yapahuwa Rock Fortress","Isurumuni Viharaya",0.5
+"1986","Yapahuwa Rock Fortress","Kuttam Pokuna",0.5
+"1987","Yatala Vehera","Tangalle Beach",0.4
+"1988","Yatala Vehera","Thissa Wewa",0.2
+"1989","Yatala Vehera","Yala National Park",0.4
